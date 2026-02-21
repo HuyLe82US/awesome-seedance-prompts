@@ -3,15 +3,15 @@
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
-> A curator-first library of high-performing Seedance 2.0 prompts — with proof clips, clear sourcing, and reusable templates to go from idea → production-ready generations faster.
+> A curator-first library of high-performing Seedance 2.0 prompts - with proof clips, clear sourcing, and reusable templates to go from idea → production-ready generations faster.
 
-⭐ If this repo saves you time, please consider giving it a **star** — it helps the collection grow and stay updated.
+⭐ If this repo saves you time, please consider giving it a **star** - it helps the collection grow and stay updated.
 
 📝 Want your prompt featured (with credit)? **Submit via GitHub Issues** (PRs are not accepted for submissions).
 
 ⚠️ **Copyright notice:** Prompts and references are collected from the community for educational purposes. If you believe any content infringes your rights, open a GitHub issue and we’ll remove it promptly.
 
-This repo focuses on prompts that consistently deliver **cinematic lighting & camera language**, **character continuity**, **complex motion/choreography**, and **mood-driven composition** — curated from social discoveries and top prompt engineers. Use it as a fast, structured index to find “what works” and reuse it.
+This repo focuses on prompts that consistently deliver **cinematic lighting & camera language**, **character continuity**, **complex motion/choreography**, and **mood-driven composition** - curated from social discoveries and top prompt engineers. Use it as a fast, structured index to find “what works” and reuse it.
 
 ---
 
