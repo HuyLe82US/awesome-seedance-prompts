@@ -3,11 +3,15 @@
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
-> A curated Seedance prompts repo with proven templates, diverse video use cases, and practical workflow tips - helping you go from idea to production-ready generations fast.
+> A curator-first library of high-performing Seedance 2.0 prompts - with proof clips, clear sourcing, and reusable templates to go from idea → production-ready generations faster.
 
-> ⚠️ Copyright Notice: All prompts are collected from the community for educational purpose. If you believe any content infringes on your rights, please open a Github issue and we will remove it promptly.
+⭐ If this repo saves you time, please consider giving it a **star** - it helps the collection grow and stay updated.
 
-Welcome to **Awesome Seedance Prompts** - a curated prompt library sourced from social-network discoveries and “godfather” prompt engineers for **high-control cinematic generation**. This repo is built for **cinematic lighting & camera language**, **character consistency across scenes**, **complex motion & choreography**, **continuity**, and **mood-driven composition**. Use these modular templates to reduce iteration, standardize your workflow, and reliably turn ideas into **film-level sequences** - fast and consistent.
+📝 Want your prompt featured (with credit)? **Submit via GitHub Issues** (PRs are not accepted for submissions).
+
+⚠️ **Copyright notice:** Prompts and references are collected from the community for educational purposes. If you believe any content infringes your rights, open a GitHub issue and we’ll remove it promptly.
+
+This repo focuses on prompts that consistently deliver **cinematic lighting & camera language**, **character continuity**, **complex motion/choreography**, and **mood-driven composition** - curated from social discoveries and top prompt engineers. Use it as a fast, structured index to find “what works” and reuse it.
 
 ---
 
@@ -37,7 +41,7 @@ Professional cinematic approaches inspired by renowned directors, designed for h
 ### 1.1 Islands of Thunder
 *Floating rocks spin and fracture mid-tempest as a lone blade carves brief streaks of light—rapid handheld energy, impossible gaps, and a blinding finale that breaks the storm open.*
 
-https://github.com/user-attachments/assets/234b63a5-2e51-4792-ad2f-343a8b239c6d
+https://github.com/user-attachments/assets/5523c26c-ea5d-4ecc-86d6-67551c4cb825
 
 **Source:** [BigMotion_ai](https://x.com/BigMotion_ai) - [Post](https://x.com/Dheepanratnam/status/2021689626092589532) · _Created: February 11_
 
