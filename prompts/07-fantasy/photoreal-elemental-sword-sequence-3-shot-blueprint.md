@@ -1,11 +1,13 @@
-### Photoreal Elemental Sword Sequence (3-Shot Blueprint)
-*A hyper-detailed live-action action template rendered in 8K realism - water-flow combat arcs, lightning-speed movement with true plasma illumination, and a climactic physics-based impact explosion inside a misty woodland arena.*
+# Photoreal Elemental Sword Sequence (3-Shot Blueprint)
+
+*Elemental sword duel - 8K realism, fluid arcs, plasma lightning clash.*
 
 https://github.com/user-attachments/assets/140b9788-dfe3-4ab7-bde7-3ac494db200b
 
 **Source:** [John](https://x.com/johnAGI168) - [Post](https://x.com/johnAGI168/status/2021786934536740871) · _Created: February 12_
 
 **Prompt:**
+
 ```text
 【风格】好莱坞真人特效大片(Hollywood Live-Action Blockbuster)，IMAX电影画质，8K超清，真实摄影(Photorealistic)，暗黑奇幻(Dark
 Fantasy)，虚幻引擎5写实渲染，无动漫感。 【时长】15秒 【场景】月光下真实的迷雾森林，地面是湿润的泥土和真实的落叶。 [00:00-00:05]

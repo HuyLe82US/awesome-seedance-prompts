@@ -1,11 +1,13 @@
-### Project Y: Rise Above the Streets
-*A tightly structured 15-second commercial sequence showcasing a next-generation vehicle transitioning from urban ground traffic into vertical ascent - set against neon reflections, rainfall haze, and high-gloss night cinematography.*
+# Project Y: Rise Above the Streets
+
+*15s future vehicle spot - neon rain, mechanical transform, vertical takeoff hero shot.*
 
 https://github.com/user-attachments/assets/2394d121-bf07-4676-b6e1-0996720b9327
 
 **Source:** [John](https://x.com/johnAGI168) - [Post](https://x.com/johnAGI168/status/2021928568272412985) · _Created: February 12_
 
 **Prompt:**
+
 ```text
 品牌Y·未来已至（15秒·好莱坞商业大片版） 核心创意 拥堵的地面（现实困境） -> 机械变形（科技高光） -> 垂直起飞（自由与未来）。 风格设定 顶级汽车广告质感(High-end Car
 Commercial)。赛博朋克未来城市，冷雨夜，霓虹光影。8K超清，变形金刚级别的机械细节，极速流光感。 分镜详解 镜头1：地面困境

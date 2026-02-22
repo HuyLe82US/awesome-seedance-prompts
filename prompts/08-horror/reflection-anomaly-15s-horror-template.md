@@ -1,11 +1,13 @@
-### Reflection Anomaly (15s Horror Template)
-*A multi-shot pseudo-documentary setup centered on a mundane routine disrupted by an independent mirror double - micro-delays, uncanny gestures, and escalating tension through controlled glitch realism.*
+# Reflection Anomaly (15s Horror Template)
+
+*Mirror-reflection glitch horror - fixed cam, uncanny delay, escalating dread.*
 
 https://github.com/user-attachments/assets/25f908a1-886a-4c65-a766-cc31dd47b075
 
 **Source:** [MappleShaw](https://x.com/msjiaozhu) - [Post](https://x.com/msjiaozhu/status/2021777584913363052) · _Created: February 12_
 
 **Prompt:**
+
 ```text
 【风格】伪纪录片（Vlog Style），超写实主义，固定机位实拍感，自然光，带有一点点悬疑惊悚色彩。 【时长】15秒 【主角（记得传参考图）】一个性感的年轻人美女，在自家卫生间洗漱台前准备洗漱睡觉。
 [00:00-00:06] 镜头1：日常铺垫（Normalcy）。 场景：普通的卫生间大镜子前。 动作：主角正在对着镜子刷牙，满嘴泡沫。她一边刷牙一边对着镜子做各种搞怪的鬼脸（挤眉弄眼）。

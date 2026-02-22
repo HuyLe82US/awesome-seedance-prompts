@@ -1,11 +1,13 @@
-### 10s MV Trio: Pop • Guofeng • Neon Bass
-*A three-part music-video prompt pack spanning modern idol pop, traditional Chinese-inspired aesthetics, and futuristic bass-driven cyber visuals - each engineered for tight beat alignment and cinematic shot rhythm.*
+# 10s MV Trio: Pop • Guofeng • Neon Bass
+
+*10s MV trio pack - beat-synced cuts, three styles, high rewatch rhythm.*
 
 https://github.com/user-attachments/assets/3603f5d2-900f-4e2d-afba-570851980a01
 
 **Source:** [松果先森](https://x.com/songguoxiansen) - [Post](https://x.com/songguoxiansen/status/2021837242767905051) · _Created: February 12_
 
 **Prompt:**
+
 ```text
 以下是用版本一的提示词生成的。 视频生成：10秒的音乐卡点MV 10秒、音乐卡点MV、16:9或9:16。 以下是3个不同风格版本： 版本一：K-pop女团·快切卡点（高燃舞台） Seedance
 2.0 提示词 10秒K-pop女团MV卡点镜头，2.35:1宽银幕，24fps，8个快切镜头。0-1秒：低机位仰拍，舞台地面四个女团成员以三角阵型站立，灯光随节拍闪，舞台"像能听见震动"，全员同时吸

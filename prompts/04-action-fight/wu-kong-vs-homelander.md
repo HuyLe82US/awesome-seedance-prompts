@@ -1,11 +1,13 @@
-### Mythic Monkey King Clash
-*A cinematic battle itinerary pairing mythic agility and transformations with modern superhuman brutality—tight choreography, environment-driven action, and timed VFX hits across segmented 4-second shots.*
+# Mythic Monkey King Clash
+
+*Mythic Wukong vs Homelander duel - tight choreography, timed VFX beats, 4s segments.*
 
 https://github.com/user-attachments/assets/609bd586-3425-41d8-93d5-fa29513b0f05
 
 **Source:** [chimi チミワウ](https://x.com/chimiwaw) - [Post](https://x.com/chimiwaw/status/2022091833632076051) · _Created: February 12_
 
 **Prompt:**
+
 ```text
 Music Accompanying Scene 1: "Sun Wukong stands on the roof of the city, brandishing his golden
 cudgel, his robe fluttering in the wind. The city lights illuminate the night, creating a cinematic

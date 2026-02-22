@@ -1,11 +1,13 @@
-### Three Micro-Episodes of Love & Conflict
-*Three distinct 15-second story prompts built around romance, pressure, and betrayal - structured with shot-level pacing, dialogue tension, and climactic emotional turns for Seedance 2.0.*
+# Three Micro-Episodes of Love & Conflict
+
+*15s romance micro-episodes - shot-level pacing, dialogue tension, emotional turn.*
 
 https://github.com/user-attachments/assets/e03255e3-f7db-403e-af24-188c1351a9d8
 
 **Source:** [松果先森](https://x.com/songguoxiansen) - [Post](https://x.com/songguoxiansen/status/2021918709573652649) · _Created: February 12_
 
 **Prompt:**
+
 ```text
 视频提示词 主题：年轻漂亮男女经典对打·现代短剧 时长：15秒 比例：16:9 --- 版本一：霸总虐恋·误会分手（狗血拉扯） Seedance 2.0 提示词 15秒现代短剧，豪华总裁办公室场景，冷
 色调高级感。0-3秒：中景镜头，一名身着高定西装的年轻男子坐在真皮老板椅上，面容冷峻眼神淡漠，他面前站着一身白裙的漂亮女孩，女孩眼眶通红泪水在眼里打转，男子开口"我给过 机会"，声音低沉冷漠；4-8秒

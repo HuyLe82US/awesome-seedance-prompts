@@ -1,11 +1,13 @@
-### Bamboo Run: Duel at Dusk
-*A high-control wuxia showdown staged for sweeping moves, tight cut-ins, and atmosphere-first lighting - building to a single collision beat rendered in extreme slow motion.*
+# Bamboo Run: Duel at Dusk
+
+*Wuxia bamboo forest duel - sweeping moves, tight cut-ins, thunder clash slow-mo.*
 
 https://github.com/user-attachments/assets/ee15c7dc-9001-4e3e-b3cb-4cd9709ab49b
 
 **Source:** [Jay Sensei](https://x.com/hckinz) - [Post](https://x.com/hckinz/status/2022062799732777214) · _Created: February 12_
 
 **Prompt:**
+
 ```text
 A Wuxia-style audiovisual blockbuster. A white-clad swordsman and a straw-caped blademaster face off
 in a bamboo forest. The camera slowly pushes in between them, shifting focus between raindrops and

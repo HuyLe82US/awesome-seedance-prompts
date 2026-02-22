@@ -3,236 +3,54 @@
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
-> A curator-first library of high-performing Seedance 2.0 prompts - with proof clips, clear sourcing, and reusable templates to go from idea → production-ready generations faster.
+> A curator-first library of high-performing Seedance 2.0 prompts — with proof clips, clear sourcing, and reusable templates to go from idea → production-ready generations faster.
 
-⭐ If this repo saves you time, please consider giving it a **star** - it helps the collection grow and stay updated.
+⭐ If this repo saves you time, please consider giving it a **star** — it helps the collection grow and stay updated.
 
-📝 Want your prompt featured (with credit)? **Submit via GitHub Issues** (PRs are not accepted for submissions).
+📝 Want your prompt featured (with credit)? **Submit via GitHub Issues** (PRs are not accepted for prompt submissions).
 
 ⚠️ **Copyright notice:** Prompts and references are collected from the community for educational purposes. If you believe any content infringes your rights, open a GitHub issue and we’ll remove it promptly.
 
-This repo focuses on prompts that consistently deliver **cinematic lighting & camera language**, **character continuity**, **complex motion/choreography**, and **mood-driven composition** - curated from social discoveries and top prompt engineers. Use it as a fast, structured index to find “what works” and reuse it.
+---
+
+## ⚡ Quickstart
+
+1. Start with **Best Prompts** below (hand-picked, proof clips included).  
+2. Copy prompt → adjust **duration / aspect ratio / style** → generate.  
+3. For character consistency, include **reference images** if your workflow supports it.
 
 ---
 
-## 📖 Table of Contents
+## ⭐ Best Prompts
 
-1. [Cinematic & VFX](#1-cinematic--vfx)
-2. [Commercial & Product](#2-commercial--product)
-3. [UGC & Social Content](#3-ugc--social-content)
-4. [Action & Fight](#4-action--fight)
-5. [Anime & Manga Styles](#5-anime--manga-styles)
-6. [Short Drama & Romance Series](#6-short-drama--romance-series)
-7. [Fantasy](#7-fantasy)
-8. [Horror](#8-horror)
-9. [Sci-Fi & Cyberpunk](#9-sci-fi--cyberpunk)
-10. [Nature & Documentary](#10-nature--documentary)
-11. [Epic & Large-Scale Spectacle](#11-epic--large-scale-spectacle)
-12. [Superhero & Powers](#12-superhero--powers)
-13. [Comedy & Meme](#13-comedy--meme)
-14. [Resources](#14-resources)
-15. [Contributing](#15-contributing)
+### 1. [Wasteland Convoy Breakout](prompts/11-epic-spectacle/wasteland-convoy-breakout.md)
+*Mad Max-style convoy breakout - scorched desert chase, multi-shot escalation, vehicular chaos.*
 
----
+https://github.com/user-attachments/assets/ebff3e7f-346d-4cda-b458-314e40468488
 
-## 1. Cinematic & VFX
-Professional cinematic approaches inspired by renowned directors, designed for high-control **Seedance 2.0** generations with advanced lighting, camera language, and cinematic-grade visual effects.
-
-### 1.1 Islands of Thunder
-*Floating rocks spin and fracture mid-tempest as a lone blade carves brief streaks of light—rapid handheld energy, impossible gaps, and a blinding finale that breaks the storm open.*
-
-https://github.com/user-attachments/assets/5523c26c-ea5d-4ecc-86d6-67551c4cb825
-
-**Source:** [BigMotion_ai](https://x.com/BigMotion_ai) - [Post](https://x.com/Dheepanratnam/status/2021689626092589532) · _Created: February 11_
+**Source:** [Dana Akerman Green](https://x.com/DanaGreenAI) - [Post](https://x.com/DanaGreenAI/status/2022060390411383290) · _Created: February 12_
 
 **Prompt:**
 
 ```text
-A surreal battlefield in the sky: floating rock islands drifting through a thunderstorm, clouds
-swirling below like an ocean. The masked ronin dashes across the drifting platforms, pursued by a
-colossal winged beast whose chest is a swirling vortex of storm clouds and lightning. The camera
-hurtles from island to island, struggling to keep up as rocks tilt, spin, and crumble away beneath
-them. Every wingbeat sends shockwaves through the air, shaking the frame and blowing debris and rain
-straight into the viewer’s face. Rapid handheld cuts capture the ronin leaping impossible gaps,
-sword carving arcs of light that briefly cut through the darkness. The finale shows the camera
-diving behind him as he jumps off the last crumbling rock, riding a bolt of lightning directly into
-the monster’s chest vortex with a final, all-or-nothing slash that explodes the storm from within
-and clears the sky in a blinding flash. 720p 16:9 15 seconds
+A multi shot high action epic video about exodus story in the style of mad max
 ```
 
-### 1.2 John Woo Style - Bullet Ballet in a Tight Corridor
-*A close-quarters shootout blueprint built on fast rhythmic edits, snap-zoom angle changes, and slow-motion impact beats—designed for Seedance 2.0 with character reference images to lock identity and continuity.*
+### 2. [Hashbrowns, Drama, Repeat](prompts/13-comedy-meme/hashbrowns-drama-repeat.md)
+*24/7 diner meltdown skit - nonstop tickets, deadpan staff, chaotic interruptions.*
 
-https://github.com/user-attachments/assets/2eb3f848-0854-4870-bc2a-cfb53088c503
+https://github.com/user-attachments/assets/4068f0f8-3302-4c2f-b5f3-4ff75c32dd2f
 
-**Source:** [John](https://x.com/john87445528) - [Post](https://x.com/john87445528/status/2022066865296601311) · _Created: February 13_
+**Source:** [Charles Curran](https://x.com/charliebcurran) - [Post](https://x.com/charliebcurran/status/2022017937192956372) · _Created: February 12_
 
 **Prompt:**
 
 ```text
-{这是一段街头场景吴宇森式枪斗打戏的画面，请基于场景图片3，生成一段流畅的白色西服男子"图片1"的真实效果下和花衬衫男子"图片2真实效果"下在狭隘空间里的枪战画面，需要运用到分镜和不同视角切换，让整个
-画面更有节奏感和电影感。 }
+An average shift at Waffle House - make sure it's chaotic and gets 50 likes.
 ```
 
-### 1.3 Suit vs. Suit: Corridor Cover-Up
-*A single-shot prompt for a cramped, high-tempo spy brawl - green-suited agent versus a black-clad rival - built around fast angle switches, clean readability, and a final gag that flips the mood.*
-
-https://github.com/user-attachments/assets/b52b2604-6985-4b7d-9494-0294f1cb116b
-
-**Source:** [Restlessperson](https://x.com/Restlessperson1) - [Post](https://x.com/Restlessperson1/status/2022059501348856015) · _Created: February 12_
-
-**Prompt:**
-
-```text
-Man in green suit with logo fighting with man in black, in style of spy movies, X man beaten on the
-floor screaming elooooon! in the end
-```
-
-### 1.4 Cathedral Beneath the Black Sea
-*A vertical dive into a drowned architectural giant where ancient machinery and bioluminescent currents guide the camera toward a vast oceanic titan waiting in the depths.*
-
-https://github.com/user-attachments/assets/765146ee-fccb-42aa-9536-80e30536b9b8
-
-**Source:** [Dheepan Ratnam](https://x.com/Dheepanratnam) - [Post](https://x.com/Dheepanratnam/status/2021943401198104904) · _Created: February 12_
-
-**Prompt:**
-
-```text
-A flooded subterranean megastructure, ancient stone corridors half-submerged in black water,
-bioluminescent algae pulsing along the walls like a heartbeat. A masked diver in scarred tactical
-gear, lit by a flickering wrist-mounted flare, is pulled downward through collapsing flooded
-chambers by the current of a colossal eyeless leviathan moving beneath the floor grates. The camera
-plunges after the diver as water rushes through shattering stone archways, air bubbles and debris
-spiraling past the lens. The diver grabs a broken pillar to stop herself, the current ripping at her
-body, then releases and freefalls through a vertical shaft, twisting to dodge the leviathan's
-translucent tendrils whipping upward through the darkness. Quick shaky frames catch her igniting a
-harpoon gun mid-fall, the flare illuminating the creature's massive jaw opening below. In the final
-movement, the camera spirals downward around her as she fires the harpoon into the creature's mouth,
-the bioluminescence erupts blinding white, and the camera bursts through the surface of a vast
-underground ocean, the diver silhouetted against the glow of a thousand pulsing organisms on a
-cathedral-sized cavern ceiling. 15 seconds.
-```
-
-### 1.5 10s Boxing Practice Template
-*A cinematic sparring setup built around close-range handheld coverage, raw sound-and-impact realism, and stable fighter appearance across fast exchanges and movement.*
-
-https://github.com/user-attachments/assets/6a78ecc4-9630-4373-a564-64b56fb27377
-
-**Source:** [AIVideoDotCom](https://x.com/AIVideoDotCom) - [Post](https://x.com/AIVideoDotCom/status/2021708002286501951) · _Created: February 11_
-
-**Prompt:**
-
-```text
-Handheld shot circling two boxers practice sparring in a gritty gym, purposefully missing each other
-with their swings. Sweat droplets, sharp impacts, breathing intensity. Shallow depth of field,
-practical lighting, visceral realism, stable identity. Duration: 10s. Aspect ratio: 16:9. Photoreal
-cinematic. Single shot unless specified. Avoid text, captions, watermarks, logos. Stress camera
-movement: smooth parallax, consistent objects, stable faces; no text
-```
-
-### 1.6 Skyline Titan Chase
-*A chase blueprint emphasizing painterly textures, cinematic lighting, and extreme size disparity, with a massive creature tearing through the city behind the fleeing subject.*
-
-https://github.com/user-attachments/assets/461f4904-0112-4954-a853-9249c5f7b7c7
-
-**Source:** [Dipper](https://x.com/dipperdao) - [Post](https://x.com/dipperdao/status/2021689147485040917) · _Created: February 11_
-
-**Prompt:**
-
-```text
-generate a video about  a running scene, behind is a giant monster big as a building with 100 floor
-is coming close, using Arcane style.
-```
-
-### 1.7 Will Smith vs. Noodle Monster
-*An epic 1980s-style fight blueprint featuring an industrial factory arena, high-contrast spotlights, textured film look, and exaggerated creature combat choreography for maximum spectacle.*
-
-https://github.com/user-attachments/assets/8c934cae-14f8-45e7-a387-96f7c755a2a5
-
-**Source:** [SOFT](https://x.com/sudoSoftAI) - [Post](https://x.com/sudoSoftAI/status/2021679124511678523) · _Created: February 11_
-
-**Prompt:**
-
-```text
-Will smith fighting a spaghetti monster, Epic 80s action movie scene , industrial factory setting,
-intense fight choreography, dramatic camera cuts, cinematic lighting, slow motion moments, practical
-effects, film grain texture, high tension
-```
-
-→ [View all prompts in this category](prompts/01-cinematic-vfx/)
-
-## 2. Commercial & Product
-Premium prompts focused on brand storytelling, hero product shots, clean compositions, and persuasive commercial pacing tailored for marketing-ready outputs.
-
-### 2.1 Hyperdrive Through the Megacity
-*A structured race blueprint designed to stress-test rapid motion handling: creature pilot, ultra-fast traversal, and four distinct scene swaps using dynamic lens language and high-impact framing.*
-
-https://github.com/user-attachments/assets/fd5fe747-7dc2-4609-8a67-4fb638f3f8e8
-
-**Source:** [Dheepan Ratnam](https://x.com/Dheepanratnam) - [Post](https://x.com/Dheepanratnam/status/2021943401198104904) · _Created: February 12_
-
-**Prompt:**
-
-```text
-a Creature is driving extremely fast through the futuristic city, 4 scene cut changes from dramatic
-angles
-```
-
-### 2.2 Project Y: Rise Above the Streets
-*A tightly structured 15-second commercial sequence showcasing a next-generation vehicle transitioning from urban ground traffic into vertical ascent - set against neon reflections, rainfall haze, and high-gloss night cinematography.*
-
-https://github.com/user-attachments/assets/2394d121-bf07-4676-b6e1-0996720b9327
-
-**Source:** [John](https://x.com/johnAGI168) - [Post](https://x.com/johnAGI168/status/2021928568272412985) · _Created: February 12_
-
-**Prompt:**
-
-```text
-品牌Y·未来已至（15秒·好莱坞商业大片版） 核心创意 拥堵的地面（现实困境） -> 机械变形（科技高光） -> 垂直起飞（自由与未来）。 风格设定 顶级汽车广告质感(High-end Car
-Commercial)。赛博朋克未来城市，冷雨夜，霓虹光影。8K超清，变形金刚级别的机械细节，极速流光感。 分镜详解 镜头1：地面困境
-画面：特写。一辆极具流线型的银色超跑“Y”在拥堵的霓虹雨夜街道上静止。雨水滑过它光滑的车漆，反射着红色的尾灯。
-细节：车头极简的“Y”发光Logo微微闪烁呼吸灯。周围是嘈杂的喇叭声，主角（车）显得冷静而优雅。 镜头2：机械觉醒 画面：极致微距特写(Extreme Macro)。
-动作：驾驶模式切换。车轮内部发出精密的机械咬合声，轮胎向下翻转90度，内部喷射口露出。 特效：幽蓝色的等离子推进器瞬间点火，将路面的雨水瞬间蒸发成白雾。车身在众人的惊呼中平稳垂直悬浮。
-镜头3：凌空未来 画面：广角跟随镜头。 动作：由静止瞬间加速。汽车“Y”化作一道银色闪电，垂直拉升，在摩天大楼之间极速穿梭，将地面的红色车流抛在脚下。
-结尾定格：车身飞向巨大的满月，画面中心浮现银色金属立体Logo：“Y - Drive the Future”。
-```
-
-→ [View all prompts in this category](prompts/02-commercial-product/)
-
-## 3. UGC & Social Content
-Creator-native prompts optimized for short-form platforms, featuring handheld realism, casual dialogue flow, and viral-ready social storytelling energy.
-
-### 3.1 360 Sweet-Spot Selfie Reel
-*A dynamic panoramic selfie opener in a dessert store, followed by rapid outfit-and-location variations featuring confident poses and clean transitions for high rewatch value.*
-
-https://github.com/user-attachments/assets/3e4e3ad0-12d1-4698-9b0e-0b3080c4106a
-
-**Source:** [nachos2d](https://x.com/NACHOS2D_) - [Post](https://x.com/NACHOS2D_/status/2022003177369776414) · _Created: February 12_
-
-**Prompt:**
-
-```text
-360-degree panoramic camera selfie. The camera rotates counterclockwise, capturing the dessert shop
-interior. Then show a woman posing in different scenes, wearing different outfits and using
-different props.
-```
-
-### 3.2 Upright Paws: A Workplace Crush
-*An exaggerated rom-com vignette built from pet-image characters: clear upright silhouettes, readable “human” acting beats, and a simple meet-cute progression with warm payoff.*
-
-https://github.com/user-attachments/assets/2fd8bb2f-8367-4362-997c-3770b4a055e5
-
-**Source:** [Rayko_Zopia](https://x.com/Fox1251104) - [Post](https://x.com/Fox1251104/status/2021949028481843527) · _Created: February 12_
-
-**Prompt:**
-
-```text
-Use cute pet images to unfold a story about a overbearing president falling in love with a cleaning
-girl, with anthropomorphic standing poses.
-```
-
-### 3.3 10s MV Trio: Pop • Guofeng • Neon Bass
-*A three-part music-video prompt pack spanning modern idol pop, traditional Chinese-inspired aesthetics, and futuristic bass-driven cyber visuals - each engineered for tight beat alignment and cinematic shot rhythm.*
+### 3. [10s MV Trio: Pop • Guofeng • Neon Bass](prompts/03-ugc-social/10s-mv-trio-pop-guofeng-neon-bass.md)
+*10s MV trio pack - beat-synced cuts, three styles, high rewatch rhythm.*
 
 https://github.com/user-attachments/assets/3603f5d2-900f-4e2d-afba-570851980a01
 
@@ -257,13 +75,265 @@ MV卡点镜头，超宽银幕，霓虹都市夜景。0-1秒：固定镜头，雨
 黑白反转然后渐黑，收 束在Bass余震与雨声渐弱中。
 ```
 
+### 4. [Photoreal Elemental Sword Sequence (3-Shot Blueprint)](prompts/07-fantasy/photoreal-elemental-sword-sequence-3-shot-blueprint.md)
+*Elemental sword duel - 8K realism, fluid arcs, plasma lightning clash.*
+
+https://github.com/user-attachments/assets/140b9788-dfe3-4ab7-bde7-3ac494db200b
+
+**Source:** [John](https://x.com/johnAGI168) - [Post](https://x.com/johnAGI168/status/2021786934536740871) · _Created: February 12_
+
+**Prompt:**
+
+```text
+【风格】好莱坞真人特效大片(Hollywood Live-Action Blockbuster)，IMAX电影画质，8K超清，真实摄影(Photorealistic)，暗黑奇幻(Dark
+Fantasy)，虚幻引擎5写实渲染，无动漫感。 【时长】15秒 【场景】月光下真实的迷雾森林，地面是湿润的泥土和真实的落叶。 [00:00-00:05]
+镜头1：真人演绎·水之呼吸(Realistic Water FX)。 【特写】一名亚洲少年剑客(真实演员脸部毛孔可见)，身穿绿黑格纹的粗布羽织(布料纹理清晰)。 动作：他在月光下双手握刀，压低重心。
+特效：随着他呼吸，刀刃上并未出现卡通水流，而是凝聚出**高度写实的、透明且发光的加压高压水流(Hyper-realistic Fluid
+Simulation)**。水流像一条活龙一样缠绕着真实的刀身，水滴飞溅在镜头上，折射出月光。 [00:05-00:10] 镜头2：雷霆一闪·极致速度(Lightning Plasma)。
+【中景/高速摄影】对面是一名染着金发的青年剑客(真实发丝飘动)，身穿黄色三角纹理的织物外套。 动作：他做出居合斩的起手式，脚下的泥土因为用力过猛而炸裂。
+特效：空气中爆发出**真实的刺眼蓝白色电流(Real Plasma Arcs)**，而不是黄色卡通闪电。电流击穿了周围的真实树木，留下烧焦的痕迹。 [00:10-00:15]
+镜头3：宿命对决·物理碰撞(Physics Clash)。 【慢动作/大爆炸】两人在画面中心极速对撞。 动作：实体水流巨剑与雷电光刃狠狠撞击在一起。
+特效：没有漫画线条，只有**真实的物理粒子爆炸**。大量的水蒸气、泥浆、被震断的树枝和耀眼的电火花在空中四散飞溅。冲击波将两人脚下的积水震起一圈圈真实的涟漪。画面极具重量感和破坏力。
+```
+
+### 5. [WWII Chase Template](prompts/09-sci-fi-cyberpunk/wwii-chase-template.md)
+*WWII motorcycle escape - period detail, practical blasts, kinetic coverage.*
+
+https://github.com/user-attachments/assets/5ade4e01-a8c7-4b76-8797-ce7c4bf01cf8
+
+**Source:** [pewden AI](https://x.com/pewdenai) - [Post](https://x.com/pewdenai/status/2021648907915411795) · _Created: February 11_
+
+**Prompt:**
+
+```text
+create a cinematic WW2 motorcycle escape sequence that makes sora and veo question their existence
+```
+
+---
+
+## 📖 Table of Contents
+[Best Prompts](#-best-prompts)
+1. [Cinematic & VFX](#1-cinematic--vfx)
+2. [Commercial & Product](#2-commercial--product)
+3. [UGC & Social Content](#3-ugc--social-content)
+4. [Action & Fight](#4-action--fight)
+5. [Anime & Manga Styles](#5-anime--manga-styles)
+6. [Short Drama & Romance Series](#6-short-drama--romance-series)
+7. [Fantasy](#7-fantasy)
+8. [Horror](#8-horror)
+9. [Sci-Fi & Cyberpunk](#9-sci-fi--cyberpunk)
+10. [Nature & Documentary](#10-nature--documentary)
+11. [Epic & Large-Scale Spectacle](#11-epic--large-scale-spectacle)
+12. [Superhero & Powers](#12-superhero--powers)
+13. [Comedy & Meme](#13-comedy--meme)
+14. [Resources](#14-resources)
+15. [Contributing](#15-contributing)
+
+---
+
+## 1. Cinematic & VFX
+Professional cinematic approaches inspired by renowned directors, designed for high-control **Seedance 2.0** generations with advanced lighting, camera language, and cinematic-grade visual effects.
+
+### 1.1 [Islands of Thunder](prompts/01-cinematic-vfx/islands-of-thunder.md)
+*Sky-island ronin chase - storm lightning, handheld frenzy, impossible leaps.*
+
+https://github.com/user-attachments/assets/5523c26c-ea5d-4ecc-86d6-67551c4cb825
+
+**Source:** [BigMotion_ai](https://x.com/BigMotion_ai) - [Post](https://x.com/Dheepanratnam/status/2021689626092589532) · _Created: February 11_
+
+**Prompt:**
+
+```text
+A surreal battlefield in the sky: floating rock islands drifting through a thunderstorm, clouds
+swirling below like an ocean. The masked ronin dashes across the drifting platforms, pursued by a
+colossal winged beast whose chest is a swirling vortex of storm clouds and lightning. The camera
+hurtles from island to island, struggling to keep up as rocks tilt, spin, and crumble away beneath
+them. Every wingbeat sends shockwaves through the air, shaking the frame and blowing debris and rain
+straight into the viewer’s face. Rapid handheld cuts capture the ronin leaping impossible gaps,
+sword carving arcs of light that briefly cut through the darkness. The finale shows the camera
+diving behind him as he jumps off the last crumbling rock, riding a bolt of lightning directly into
+the monster’s chest vortex with a final, all-or-nothing slash that explodes the storm from within
+and clears the sky in a blinding flash. 720p 16:9 15 seconds
+```
+
+### 1.2 [John Woo Style - Bullet Ballet in a Tight Corridor](prompts/01-cinematic-vfx/john-woo-style-bullet-ballet-in-a-tight-corridor.md)
+*John Woo corridor gunfight - snap-zooms, rhythmic edits, slow-mo impact beats.*
+
+https://github.com/user-attachments/assets/2eb3f848-0854-4870-bc2a-cfb53088c503
+
+**Source:** [John](https://x.com/john87445528) - [Post](https://x.com/john87445528/status/2022066865296601311) · _Created: February 13_
+
+**Prompt:**
+
+```text
+{这是一段街头场景吴宇森式枪斗打戏的画面，请基于场景图片3，生成一段流畅的白色西服男子"图片1"的真实效果下和花衬衫男子"图片2真实效果"下在狭隘空间里的枪战画面，需要运用到分镜和不同视角切换，让整个
+画面更有节奏感和电影感。 }
+```
+
+### 1.3 [Suit vs. Suit: Corridor Cover-Up](prompts/01-cinematic-vfx/suit-vs-suit-corridor-cover-up.md)
+*Cramped spy corridor brawl - fast angle switches, clean readability, gag ending.*
+
+https://github.com/user-attachments/assets/b52b2604-6985-4b7d-9494-0294f1cb116b
+
+**Source:** [Restlessperson](https://x.com/Restlessperson1) - [Post](https://x.com/Restlessperson1/status/2022059501348856015) · _Created: February 12_
+
+**Prompt:**
+
+```text
+Man in green suit with logo fighting with man in black, in style of spy movies, X man beaten on the
+floor screaming elooooon! in the end
+```
+
+### 1.4 [Cathedral Beneath the Black Sea](prompts/01-cinematic-vfx/cathedral-beneath-the-black-sea.md)
+*Underwater cathedral dive - bioluminescent gloom, vertigo descent, leviathan reveal.*
+
+https://github.com/user-attachments/assets/765146ee-fccb-42aa-9536-80e30536b9b8
+
+**Source:** [Dheepan Ratnam](https://x.com/Dheepanratnam) - [Post](https://x.com/Dheepanratnam/status/2021943401198104904) · _Created: February 12_
+
+**Prompt:**
+
+```text
+A flooded subterranean megastructure, ancient stone corridors half-submerged in black water,
+bioluminescent algae pulsing along the walls like a heartbeat. A masked diver in scarred tactical
+gear, lit by a flickering wrist-mounted flare, is pulled downward through collapsing flooded
+chambers by the current of a colossal eyeless leviathan moving beneath the floor grates. The camera
+plunges after the diver as water rushes through shattering stone archways, air bubbles and debris
+spiraling past the lens. The diver grabs a broken pillar to stop herself, the current ripping at her
+body, then releases and freefalls through a vertical shaft, twisting to dodge the leviathan's
+translucent tendrils whipping upward through the darkness. Quick shaky frames catch her igniting a
+harpoon gun mid-fall, the flare illuminating the creature's massive jaw opening below. In the final
+movement, the camera spirals downward around her as she fires the harpoon into the creature's mouth,
+the bioluminescence erupts blinding white, and the camera bursts through the surface of a vast
+underground ocean, the diver silhouetted against the glow of a thousand pulsing organisms on a
+cathedral-sized cavern ceiling. 15 seconds.
+```
+
+### 1.5 [10s Boxing Practice Template](prompts/01-cinematic-vfx/10s-boxing-practice-template.md)
+*Gritty gym sparring - handheld circling, sweat impacts, stable identity.*
+
+https://github.com/user-attachments/assets/6a78ecc4-9630-4373-a564-64b56fb27377
+
+**Source:** [AIVideoDotCom](https://x.com/AIVideoDotCom) - [Post](https://x.com/AIVideoDotCom/status/2021708002286501951) · _Created: February 11_
+
+**Prompt:**
+
+```text
+Handheld shot circling two boxers practice sparring in a gritty gym, purposefully missing each other
+with their swings. Sweat droplets, sharp impacts, breathing intensity. Shallow depth of field,
+practical lighting, visceral realism, stable identity. Duration: 10s. Aspect ratio: 16:9. Photoreal
+cinematic. Single shot unless specified. Avoid text, captions, watermarks, logos. Stress camera
+movement: smooth parallax, consistent objects, stable faces; no text
+```
+
+### 1.6 [Skyline Titan Chase](prompts/01-cinematic-vfx/skyline-titan-chase.md)
+*Titan city chase - painterly lighting, massive scale gap, destruction pursuit.*
+
+https://github.com/user-attachments/assets/461f4904-0112-4954-a853-9249c5f7b7c7
+
+**Source:** [Dipper](https://x.com/dipperdao) - [Post](https://x.com/dipperdao/status/2021689147485040917) · _Created: February 11_
+
+**Prompt:**
+
+```text
+generate a video about  a running scene, behind is a giant monster big as a building with 100 floor
+is coming close, using Arcane style.
+```
+
+### 1.7 [A charismatic 80s action star vs. Noodle Monster](prompts/01-cinematic-vfx/charismatic-vs-noodle-monster.md)
+*80s factory monster brawl - film grain, spotlight contrast, big choreography.*
+
+https://github.com/user-attachments/assets/8c934cae-14f8-45e7-a387-96f7c755a2a5
+
+**Source:** [SOFT](https://x.com/sudoSoftAI) - [Post](https://x.com/sudoSoftAI/status/2021679124511678523) · _Created: February 11_
+
+**Prompt:**
+
+```text
+Will smith fighting a spaghetti monster, Epic 80s action movie scene , industrial factory setting,
+intense fight choreography, dramatic camera cuts, cinematic lighting, slow motion moments, practical
+effects, film grain texture, high tension
+```
+
+→ [View all prompts in this category](prompts/01-cinematic-vfx/)
+
+## 2. Commercial & Product
+Premium prompts focused on brand storytelling, hero product shots, clean compositions, and persuasive commercial pacing tailored for marketing-ready outputs.
+
+### 2.1 [Hyperdrive Through the Megacity](prompts/02-commercial-product/hyperdrive-through-the-megacity.md)
+*Futuristic megacity hyperdrive - ultra-fast traversal, dramatic angles, rapid scene cuts.*
+
+https://github.com/user-attachments/assets/fd5fe747-7dc2-4609-8a67-4fb638f3f8e8
+
+**Source:** [Dheepan Ratnam](https://x.com/Dheepanratnam) - [Post](https://x.com/Dheepanratnam/status/2021943401198104904) · _Created: February 12_
+
+**Prompt:**
+
+```text
+a Creature is driving extremely fast through the futuristic city, 4 scene cut changes from dramatic
+angles
+```
+
+### 2.2 [Project Y: Rise Above the Streets](prompts/02-commercial-product/project-y-rise-above-the-streets.md)
+*15s future vehicle spot - neon rain, mechanical transform, vertical takeoff hero shot.*
+
+https://github.com/user-attachments/assets/2394d121-bf07-4676-b6e1-0996720b9327
+
+**Source:** [John](https://x.com/johnAGI168) - [Post](https://x.com/johnAGI168/status/2021928568272412985) · _Created: February 12_
+
+**Prompt:**
+
+```text
+品牌Y·未来已至（15秒·好莱坞商业大片版） 核心创意 拥堵的地面（现实困境） -> 机械变形（科技高光） -> 垂直起飞（自由与未来）。 风格设定 顶级汽车广告质感(High-end Car
+Commercial)。赛博朋克未来城市，冷雨夜，霓虹光影。8K超清，变形金刚级别的机械细节，极速流光感。 分镜详解 镜头1：地面困境
+画面：特写。一辆极具流线型的银色超跑“Y”在拥堵的霓虹雨夜街道上静止。雨水滑过它光滑的车漆，反射着红色的尾灯。
+细节：车头极简的“Y”发光Logo微微闪烁呼吸灯。周围是嘈杂的喇叭声，主角（车）显得冷静而优雅。 镜头2：机械觉醒 画面：极致微距特写(Extreme Macro)。
+动作：驾驶模式切换。车轮内部发出精密的机械咬合声，轮胎向下翻转90度，内部喷射口露出。 特效：幽蓝色的等离子推进器瞬间点火，将路面的雨水瞬间蒸发成白雾。车身在众人的惊呼中平稳垂直悬浮。
+镜头3：凌空未来 画面：广角跟随镜头。 动作：由静止瞬间加速。汽车“Y”化作一道银色闪电，垂直拉升，在摩天大楼之间极速穿梭，将地面的红色车流抛在脚下。
+结尾定格：车身飞向巨大的满月，画面中心浮现银色金属立体Logo：“Y - Drive the Future”。
+```
+
+→ [View all prompts in this category](prompts/02-commercial-product/)
+
+## 3. UGC & Social Content
+Creator-native prompts optimized for short-form platforms, featuring handheld realism, casual dialogue flow, and viral-ready social storytelling energy.
+
+### 3.1 [360 Sweet-Spot Selfie Reel](prompts/03-ugc-social/360-sweet-spot-selfie-reel.md)
+*Dessert-shop 360 selfie reel - smooth spin, outfit/location swaps, clean transitions.*
+
+https://github.com/user-attachments/assets/3e4e3ad0-12d1-4698-9b0e-0b3080c4106a
+
+**Source:** [nachos2d](https://x.com/NACHOS2D_) - [Post](https://x.com/NACHOS2D_/status/2022003177369776414) · _Created: February 12_
+
+**Prompt:**
+
+```text
+360-degree panoramic camera selfie. The camera rotates counterclockwise, capturing the dessert shop
+interior. Then show a woman posing in different scenes, wearing different outfits and using
+different props.
+```
+
+### 3.2 [Upright Paws: A Workplace Crush](prompts/03-ugc-social/upright-paws-a-workplace-crush.md)
+*Pet rom-com meet-cute - upright silhouettes, human-like acting, warm payoff.*
+
+https://github.com/user-attachments/assets/2fd8bb2f-8367-4362-997c-3770b4a055e5
+
+**Source:** [Rayko_Zopia](https://x.com/Fox1251104) - [Post](https://x.com/Fox1251104/status/2021949028481843527) · _Created: February 12_
+
+**Prompt:**
+
+```text
+Use cute pet images to unfold a story about a overbearing president falling in love with a cleaning
+girl, with anthropomorphic standing poses.
+```
+
 → [View all prompts in this category](prompts/03-ugc-social/)
 
 ## 4. Action & Fight
 Dynamic combat-oriented prompts built for impactful choreography, kinetic camera movement, and clearly readable high-intensity action sequences.
 
-### 4.1 Mythic Monkey King Clash
-*A cinematic battle itinerary pairing mythic agility and transformations with modern superhuman brutality—tight choreography, environment-driven action, and timed VFX hits across segmented 4-second shots.*
+### 4.1 [Mythic Monkey King Clash](prompts/04-action-fight/wu-kong-vs-homelander.md)
+*Mythic Wukong vs Homelander duel - tight choreography, timed VFX beats, 4s segments.*
 
 https://github.com/user-attachments/assets/609bd586-3425-41d8-93d5-fa29513b0f05
 
@@ -285,8 +355,8 @@ Scene 5: "The two float in the air, facing each other, energy ripples spreading.
 wide angle, cinematic composition, 4 seconds."
 ```
 
-### 4.2 Bamboo Run: Duel at Dusk
-*A high-control wuxia showdown staged for sweeping moves, tight cut-ins, and atmosphere-first lighting - building to a single collision beat rendered in extreme slow motion.*
+### 4.2 [Bamboo Run: Duel at Dusk](prompts/04-action-fight/bamboo-run-duel-at-dusk.md)
+*Wuxia bamboo forest duel - sweeping moves, tight cut-ins, thunder clash slow-mo.*
 
 https://github.com/user-attachments/assets/ee15c7dc-9001-4e3e-b3cb-4cd9709ab49b
 
@@ -305,8 +375,8 @@ blades, along with bamboo leaves sliced by sword aura. Normal speed resumes as t
 back-to-back. The straw-caped blademaster's bamboo hat splits open, and the scene cuts abruptly.
 ```
 
-### 4.3 Three-Way Kill Box: Suit, Assassin, Unknown
-*A fast-cut, high-impact melee where alliances flip mid-frame - handheld urgency, whip-pan coverage, and escalating beat structure - using fully synthetic character designs to avoid using any real human likeness.*
+### 4.3 [Three-Way Kill Box: Suit, Assassin, Unknown](prompts/04-action-fight/three-way-kill-box-suit-assassin-unknown.md)
+*Three-way melee showdown - handheld urgency, whip-pans, alliances flip mid-fight.*
 
 https://github.com/user-attachments/assets/e491b0e3-937b-466a-a62e-0815e1f1a5fa
 
@@ -318,8 +388,8 @@ https://github.com/user-attachments/assets/e491b0e3-937b-466a-a62e-0815e1f1a5fa
 A fast-paced fight scene: John Wick &. James Bond (007) & another guy — a three-way brutal showdown.
 ```
 
-### 4.4 Modern Air Combat Cinematic Template
-*A multi-angle fighter engagement blueprint emphasizing extreme-speed flight dynamics, aggressive camera tracking, and intimate cockpit inserts showing pilot focus and control precision.*
+### 4.4 [Modern Air Combat Cinematic Template](prompts/04-action-fight/modern-air-combat-cinematic-template.md)
+*Modern jet dogfight - extreme speed, aggressive tracking, cockpit inserts.*
 
 https://github.com/user-attachments/assets/cb2cfc96-4ef0-4362-b0f8-88c8b89fe8bd
 
@@ -341,8 +411,8 @@ fast-moving camera shots. Cinematic quality, 4k, crisp detail, and 24 FPS.
 ## 5. Anime & Manga Styles
 Stylized prompts crafted for anime-inspired aesthetics, expressive character animation, dramatic framing, and manga-influenced visual language.
 
-### 5.1 Inner Guardians: Bedroom Victory Chat
-*A staged, line-by-line exchange between the three Sailormoons, mixing small physical actions with comedic call-and-response timing.*
+### 5.1 [Inner Guardians: Bedroom Victory Chat](prompts/05-anime-manga/sailormoon-bedroom-victory-chat.md)
+*Sailor Moon bedroom banter - line-by-line comedy, small actions, punchy timing.*
 
 https://github.com/user-attachments/assets/85cbfcbf-0889-4d8f-b2be-94aac38a4f37
 
@@ -355,8 +425,8 @@ https://github.com/user-attachments/assets/85cbfcbf-0889-4d8f-b2be-94aac38a4f37
 "How many were there? 6? 7?". Sailor Jupiter laughs and says "6 7!""
 ```
 
-### 5.2 Azure Ascension: Live-Action Saiyan Duel
-*A high-intensity, live-action brawl between two blue-state Saiyans - fast exchanges, heavy impacts, and escalating energy attacks designed for cinematic clarity and spectacle.*
+### 5.2 [Azure Ascension: Live-Action Saiyan Duel](prompts/05-anime-manga/azure-ascension-live-action-saiyan-duel.md)
+*Live-action Saiyan brawl - fast exchanges, heavy hits, escalating energy attacks.*
 
 https://github.com/user-attachments/assets/5fad1f7b-63dd-4aa1-92a5-ffc425c96dd1
 
@@ -368,8 +438,8 @@ https://github.com/user-attachments/assets/5fad1f7b-63dd-4aa1-92a5-ffc425c96dd1
 live action Saiyan battle between Goku & Vegeta, super saiyan blue
 ```
 
-### 5.3 Gadget Cat vs. Web Hero Showdown
-*A minimalist crossover prompt pitting a futuristic pocket-tech companion against an agile city-swinging vigilante—crafted for high-impact action despite simple input.*
+### 5.3 [Gadget Cat vs. Web Hero Showdown](prompts/05-anime-manga/gadget-cat-vs-web-hero-showdown.md)
+*Gadget cat vs web hero - minimalist prompt, high-impact action, clean readability.*
 
 https://github.com/user-attachments/assets/08684e92-af7b-443b-a403-5fd163f655ed
 
@@ -386,8 +456,8 @@ Doramon and spiderman fighting very high quality and intense
 ## 6. Short Drama & Romance Series
 Emotion-driven prompts structured for dialogue-focused micro-episodes, relationship tension, and serialized short-form cinematic storytelling.
 
-### 6.1 Three Micro-Episodes of Love & Conflict
-*Three distinct 15-second story prompts built around romance, pressure, and betrayal - structured with shot-level pacing, dialogue tension, and climactic emotional turns for Seedance 2.0.*
+### 6.1 [Three Micro-Episodes of Love & Conflict](prompts/06-drama-romance/three-micro-episodes-of-love-conflict.md)
+*15s romance micro-episodes - shot-level pacing, dialogue tension, emotional turn.*
 
 https://github.com/user-attachments/assets/e03255e3-f7db-403e-af24-188c1351a9d8
 
@@ -413,8 +483,8 @@ Seedance 2.0 提示词 15秒现代校园短剧，雨夜教室走廊场景，冷�
 私语声中。
 ```
 
-### 6.2 Cockpit Panic Sequence
-*A cockpit-based action blueprint built around frantic camera instability, flashing alarms, harsh contrast lighting, and rapid escalation as the aircraft environment becomes a pressure-cooker scene.*
+### 6.2 [Cockpit Panic Sequence](prompts/06-drama-romance/cockpit-panic-sequence.md)
+*Cockpit panic thriller - flashing alarms, shaky cam, turbulence escalation.*
 
 https://github.com/user-attachments/assets/2bf3465a-1c94-449e-97cf-225aa1b06db4
 
@@ -432,8 +502,8 @@ slicing through storm clouds, lightning illuminating her silhouette inside the c
 controls, ultra-realistic, dynamic lighting, 4K, immersive sound design, urgent atmosphere.
 ```
 
-### 6.3 Gold Bag Dive Shot
-*A fast-paced run-and-jump vignette where the lens stays close, hits the splash, then tracks the character underwater as coins shimmer in motion.*
+### 6.3 [Gold Bag Dive Shot](prompts/06-drama-romance/gold-bag-dive-shot.md)
+*Run-and-dive gold bag - close lens chase, splash hit, underwater follow.*
 
 https://github.com/user-attachments/assets/ff7cf3eb-92e6-476a-93d8-eb43597995d7
 
@@ -451,8 +521,8 @@ camera follow him underwater.
 ## 7. Fantasy
 Worldbuilding prompts centered on mythic environments, magical atmospheres, legendary creatures, and immersive fantasy cinematics.
 
-### 7.1 Chrome Wraith in Blue Light
-*A cold-toned cinematic character study: luminous pale skin, complex metallic headpiece, and a staged transformation where arms and legs become flowing reflective metal - built to showcase smooth morph physics and high-contrast mood.*
+### 7.1 [Chrome Wraith in Blue Light](prompts/07-fantasy/chrome-wraith-in-blue-light.md)
+*Chrome-wraith transformation - cold blue mood, liquid metal morph, high-contrast glow.*
 
 https://github.com/user-attachments/assets/6994b479-6128-4bce-b66a-252003f4477c
 
@@ -465,29 +535,8 @@ https://github.com/user-attachments/assets/6994b479-6128-4bce-b66a-252003f4477c
 的逆光在她头部周围营造出光晕效果，冷蓝色调的雾气氛围，电影般的灯光，细节丰富、超现实且优雅，黑暗奇幻美学。
 ```
 
-### 7.2 Photoreal Elemental Sword Sequence (3-Shot Blueprint)
-*A hyper-detailed live-action action template rendered in 8K realism - water-flow combat arcs, lightning-speed movement with true plasma illumination, and a climactic physics-based impact explosion inside a misty woodland arena.*
-
-https://github.com/user-attachments/assets/140b9788-dfe3-4ab7-bde7-3ac494db200b
-
-**Source:** [John](https://x.com/johnAGI168) - [Post](https://x.com/johnAGI168/status/2021786934536740871) · _Created: February 12_
-
-**Prompt:**
-
-```text
-【风格】好莱坞真人特效大片(Hollywood Live-Action Blockbuster)，IMAX电影画质，8K超清，真实摄影(Photorealistic)，暗黑奇幻(Dark
-Fantasy)，虚幻引擎5写实渲染，无动漫感。 【时长】15秒 【场景】月光下真实的迷雾森林，地面是湿润的泥土和真实的落叶。 [00:00-00:05]
-镜头1：真人演绎·水之呼吸(Realistic Water FX)。 【特写】一名亚洲少年剑客(真实演员脸部毛孔可见)，身穿绿黑格纹的粗布羽织(布料纹理清晰)。 动作：他在月光下双手握刀，压低重心。
-特效：随着他呼吸，刀刃上并未出现卡通水流，而是凝聚出**高度写实的、透明且发光的加压高压水流(Hyper-realistic Fluid
-Simulation)**。水流像一条活龙一样缠绕着真实的刀身，水滴飞溅在镜头上，折射出月光。 [00:05-00:10] 镜头2：雷霆一闪·极致速度(Lightning Plasma)。
-【中景/高速摄影】对面是一名染着金发的青年剑客(真实发丝飘动)，身穿黄色三角纹理的织物外套。 动作：他做出居合斩的起手式，脚下的泥土因为用力过猛而炸裂。
-特效：空气中爆发出**真实的刺眼蓝白色电流(Real Plasma Arcs)**，而不是黄色卡通闪电。电流击穿了周围的真实树木，留下烧焦的痕迹。 [00:10-00:15]
-镜头3：宿命对决·物理碰撞(Physics Clash)。 【慢动作/大爆炸】两人在画面中心极速对撞。 动作：实体水流巨剑与雷电光刃狠狠撞击在一起。
-特效：没有漫画线条，只有**真实的物理粒子爆炸**。大量的水蒸气、泥浆、被震断的树枝和耀眼的电火花在空中四散飞溅。冲击波将两人脚下的积水震起一圈圈真实的涟漪。画面极具重量感和破坏力。
-```
-
-### 7.3 Colossal Baboon Assault
-*A high-chaos creature sequence designed to push motion and destruction limits: an armored giant beast storms a burning village environment, culminating in an intense clash with a warrior figure.*
+### 7.2 [Colossal Baboon Assault](prompts/07-fantasy/colossal-baboon-assault.md)
+*Armored baboon rampage - village inferno, debris storm, brutal toss beats.*
 
 https://github.com/user-attachments/assets/0e7f4f56-413e-4469-8348-4e8a279e0eee
 
@@ -506,8 +555,8 @@ debris.
 ## 8. Horror
 Suspense-focused prompts designed to create psychological tension, eerie environments, unsettling visuals, and cinematic horror pacing.
 
-### 8.1 Reflection Anomaly (15s Horror Template)
-*A multi-shot pseudo-documentary setup centered on a mundane routine disrupted by an independent mirror double - micro-delays, uncanny gestures, and escalating tension through controlled glitch realism.*
+### 8.1 [Reflection Anomaly (15s Horror Template)](prompts/08-horror/reflection-anomaly-15s-horror-template.md)
+*Mirror-reflection glitch horror - fixed cam, uncanny delay, escalating dread.*
 
 https://github.com/user-attachments/assets/25f908a1-886a-4c65-a766-cc31dd47b075
 
@@ -525,8 +574,8 @@ https://github.com/user-attachments/assets/25f908a1-886a-4c65-a766-cc31dd47b075
 结果：镜子此时已经完全恢复正常，空空荡荡，只照出对面的墙壁。主角一脸茫然且后怕，对着房间里环视了一下，露出惊悚的表情。画面在主角的懵逼脸中定格（恐怖片效果）。
 ```
 
-### 8.2 Stormborne Sea Creature Attack
-*A high-intensity ocean survival scene set during a torrential downpour, featuring chaotic handheld motion, crashing waves, and a sudden deep-sea assault that pulls the subject into darkness.*
+### 8.2 [Stormborne Sea Creature Attack](prompts/08-horror/stormborne-sea-creature-attack.md)
+*Stormy sea-monster attack - torrential rain, crashing waves, handheld chaos.*
 
 https://github.com/user-attachments/assets/afac04f5-4ddc-44c8-8657-3055418db981
 
@@ -544,39 +593,13 @@ bites the boat with its' teeth and drags it into the ocean"
 ## 9. Sci-Fi & Cyberpunk
 Futuristic prompts set in advanced technological worlds, neon-lit dystopias, cyberpunk cities, and high-tech cinematic universes.
 
-### 9.1 History Meets Pop Culture - Experimental Scene
-*A bizarre, time-defying encounter between two globally recognizable personalities Michael Jackson and Hitler, structured to test the model’s handling of tone contrast, visual identity separation, and scene coherence.*
-
-https://github.com/user-attachments/assets/e5985f4f-8756-4e88-9928-41c0d6af20d4
-
-**Source:** [ImPaul](https://x.com/impaulxyz) - [Post](https://x.com/impaulxyz/status/2021825594963767522) · _Created: February 12_
-
-**Prompt:**
-
-```text
-Michael Jackson vs Hitler en un cara a cara épico.
-```
-
-### 9.2 WWII Chase Template
-*A demanding action blueprint featuring a period-accurate motorcycle pursuit, practical-style explosions, and dramatic camera coverage designed to push realism, motion handling, and atmospheric depth.*
-
-https://github.com/user-attachments/assets/5ade4e01-a8c7-4b76-8797-ce7c4bf01cf8
-
-**Source:** [pewden AI](https://x.com/pewdenai) - [Post](https://x.com/pewdenai/status/2021648907915411795) · _Created: February 11_
-
-**Prompt:**
-
-```text
-create a cinematic WW2 motorcycle escape sequence that makes sora and veo question their existence
-```
-
 → [View all prompts in this category](prompts/09-sci-fi-cyberpunk/)
 
 ## 10. Nature & Documentary
 Documentary-style prompts capturing natural beauty, wildlife realism, immersive landscapes, and observational cinematic flow.
 
-### 10.1 Quiet Harvest Ritual (Three-Beat Film Study)
-*A structured trio of scenes emphasizing natural light, extreme macro detail, and commercial-grade polish (4K/8K feel): garden picking, deliberate knife work, and a tranquil final bite framed in silence.*
+### 10.1 [Quiet Harvest Ritual (Three-Beat Film Study)](prompts/10-nature-documentary/quiet-harvest-ritual-three-beat-film-study.md)
+*Farm-to-table trio - extreme macro, natural light, calm ASMR pacing.*
 
 https://github.com/user-attachments/assets/ac41dc26-1fd7-4643-b01e-3f86c822ec0e
 
@@ -600,26 +623,13 @@ Linen Outfit)，妆容清透，眼神专注宁静。 【分镜详解】 [00:00-0
 ## 11. Epic & Large-Scale Spectacle
 Large-format prompts engineered for massive environments, sweeping camera reveals, heroic framing, and IMAX-level cinematic scale.
 
-### 11.1 Wasteland Convoy Breakout
-*A multi-shot, pedal-to-the-metal escape saga: a desperate caravan punches through a scorched desert warzone, escalating from pursuit to full-scale vehicular chaos - built as an epic sequence for Seedance 2.0.*
-
-https://github.com/user-attachments/assets/ebff3e7f-346d-4cda-b458-314e40468488
-
-**Source:** [Dana Akerman Green](https://x.com/DanaGreenAI) - [Post](https://x.com/DanaGreenAI/status/2022060390411383290) · _Created: February 12_
-
-**Prompt:**
-
-```text
-A multi shot high action epic video about exodus story in the style of mad max
-```
-
 → [View all prompts in this category](prompts/11-epic-spectacle/)
 
 ## 12. Superhero & Powers
 Comic-inspired prompts highlighting iconic hero moments, stylized powers, cinematic clashes, and visually striking action sequences.
 
-### 12.1 Spiderman vs Octopusman (One-Prompt Test)
-*A single-shot combat showcase featuring a spider-themed hero versus an octo-armed adversary, optimized for maximum motion clarity and spectacle with minimal instruction.*
+### 12.1 [Spiderman vs Octopusman (One-Prompt Test)](prompts/12-superhero-powers/spiderman-vs-octopusman-one-prompt-test.md)
+*Spider vs octo villain fight - single-shot spectacle, clear motion, minimal input.*
 
 https://github.com/user-attachments/assets/cabb177b-80fc-436f-bc04-8dcf854b83e3
 
@@ -631,8 +641,8 @@ https://github.com/user-attachments/assets/cabb177b-80fc-436f-bc04-8dcf854b83e3
 #Seedance 2.0 を使ってスパイダーマンとオクトパスマンのエキサイティングな戦闘シーンを作ってください。
 ```
 
-### 12.2 Thanos vs Spiderman Team
-*A short-form cinematic sequence where a powerful antagonist expresses remorse moments before being overwhelmed by a coordinated hero response - illustrating narrative coherence and multi-character staging.*
+### 12.2 [Thanos vs Spiderman Team](prompts/12-superhero-powers/thanos-vs-spiderman-team.md)
+*Thanos apology beatdown - short-form arc, multi-hero staging, punchy payoff.*
 
 https://github.com/user-attachments/assets/484b9798-af03-4ce9-a525-faab632365b6
 
@@ -649,8 +659,8 @@ forcing Thanos to apologize before a Spider-Man-led group assault
 ## 13. Comedy & Meme
 High-engagement prompts built around absurd scenarios, exaggerated reactions, and meme-ready cinematic humor.
 
-### 13.1 Ava Labs: Community Fire Drill
-*An over-the-top, fast-cut “day in the life” skit where leadership tries to keep up with nonstop community chaos - built for maximum shares and reactions.*
+### 13.1 [Ava Labs: Community Fire Drill](prompts/13-comedy-meme/ava-labs-community-fire-drill.md)
+*Over-the-top exec day-in-the-life skit - fast cuts, nonstop community chaos, meme energy.*
 
 https://github.com/user-attachments/assets/77434f59-25a7-40cf-800b-d44138790711
 
@@ -661,19 +671,6 @@ https://github.com/user-attachments/assets/77434f59-25a7-40cf-800b-d44138790711
 ```text
 An average day for Execs at Avalabs, dealing with the community. Make sure it's really retarded and
 gets 1,000 likes.
-```
-
-### 13.2 Hashbrowns, Drama, Repeat
-*A chaotic slice-of-life skit in a round-the-clock diner: nonstop tickets, unexpected disruptions, and deadpan staff energy - optimized for viral engagement loops.*
-
-https://github.com/user-attachments/assets/4068f0f8-3302-4c2f-b5f3-4ff75c32dd2f
-
-**Source:** [Charles Curran](https://x.com/charliebcurran) - [Post](https://x.com/charliebcurran/status/2022017937192956372) · _Created: February 12_
-
-**Prompt:**
-
-```text
-An average shift at Waffle House - make sure it's retarded and gets 50 likes.
 ```
 
 → [View all prompts in this category](prompts/13-comedy-meme/)

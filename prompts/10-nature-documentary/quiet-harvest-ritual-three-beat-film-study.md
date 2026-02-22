@@ -1,11 +1,13 @@
-### Quiet Harvest Ritual (Three-Beat Film Study)
-*A structured trio of scenes emphasizing natural light, extreme macro detail, and commercial-grade polish (4K/8K feel): garden picking, deliberate knife work, and a tranquil final bite framed in silence.*
+# Quiet Harvest Ritual (Three-Beat Film Study)
+
+*Farm-to-table trio - extreme macro, natural light, calm ASMR pacing.*
 
 https://github.com/user-attachments/assets/ac41dc26-1fd7-4643-b01e-3f86c822ec0e
 
 **Source:** [John](https://x.com/johnAGI168) - [Post](https://x.com/johnAGI168/status/2021818021354848258) · _Created: February 12_
 
 **Prompt:**
+
 ```text
 【风格】 现代田园美学(Modern Rural Aesthetics)，电影级广告大片质感(Cinematic
 Commercial)，索尼A7S3/电影机拍摄，4K/8K超清，极致微距(Extreme Macro)，自然通透光感，治愈系ASMR，无古装剧感。 【场景】

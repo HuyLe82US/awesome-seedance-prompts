@@ -1,11 +1,13 @@
-### Cockpit Panic Sequence
-*A cockpit-based action blueprint built around frantic camera instability, flashing alarms, harsh contrast lighting, and rapid escalation as the aircraft environment becomes a pressure-cooker scene.*
+# Cockpit Panic Sequence
+
+*Cockpit panic thriller - flashing alarms, shaky cam, turbulence escalation.*
 
 https://github.com/user-attachments/assets/2bf3465a-1c94-449e-97cf-225aa1b06db4
 
 **Source:** [Kemal Cagin](https://x.com/kemalcse) - [Post](https://x.com/kemalcse/status/2021903817382437323) · _Created: February 12_
 
 **Prompt:**
+
 ```text
 High-intensity action thriller scene, hand-held shaky camera, cinematic motion blur, the woman
 storms into the cockpit and freezes as she realizes the pilot seats are empty, warning alarms
