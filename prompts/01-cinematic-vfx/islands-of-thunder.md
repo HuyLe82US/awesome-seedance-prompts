@@ -1,11 +1,13 @@
-### Islands of Thunder
-*Floating rocks spin and fracture mid-tempest as a lone blade carves brief streaks of light—rapid handheld energy, impossible gaps, and a blinding finale that breaks the storm open.*
+# Islands of Thunder
 
-https://github.com/user-attachments/assets/234b63a5-2e51-4792-ad2f-343a8b239c6d
+*Sky-island ronin chase - storm lightning, handheld frenzy, impossible leaps.*
+
+https://github.com/user-attachments/assets/5523c26c-ea5d-4ecc-86d6-67551c4cb825
 
 **Source:** [BigMotion_ai](https://x.com/BigMotion_ai) - [Post](https://x.com/Dheepanratnam/status/2021689626092589532) · _Created: February 11_
 
 **Prompt:**
+
 ```text
 A surreal battlefield in the sky: floating rock islands drifting through a thunderstorm, clouds
 swirling below like an ocean. The masked ronin dashes across the drifting platforms, pursued by a

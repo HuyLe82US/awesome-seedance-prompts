@@ -5,4 +5,4 @@
 Browse all prompts in this category:
 
 - **11.1 Wasteland Convoy Breakout** 🔥 → [wasteland-convoy-breakout.md](wasteland-convoy-breakout.md)
-  - _A multi-shot, pedal-to-the-metal escape saga: a desperate caravan punches through a scorched desert warzone, escalating from pursuit to full-scale vehicular chaos - built as an epic sequence for Seedance 2.0._
+  - _Mad Max-style convoy breakout - scorched desert chase, multi-shot escalation, vehicular chaos._

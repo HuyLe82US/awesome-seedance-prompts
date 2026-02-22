@@ -1,11 +1,13 @@
-### Cathedral Beneath the Black Sea
-*A vertical dive into a drowned architectural giant where ancient machinery and bioluminescent currents guide the camera toward a vast oceanic titan waiting in the depths.*
+# Cathedral Beneath the Black Sea
+
+*Underwater cathedral dive - bioluminescent gloom, vertigo descent, leviathan reveal.*
 
 https://github.com/user-attachments/assets/765146ee-fccb-42aa-9536-80e30536b9b8
 
 **Source:** [Dheepan Ratnam](https://x.com/Dheepanratnam) - [Post](https://x.com/Dheepanratnam/status/2021943401198104904) · _Created: February 12_
 
 **Prompt:**
+
 ```text
 A flooded subterranean megastructure, ancient stone corridors half-submerged in black water,
 bioluminescent algae pulsing along the walls like a heartbeat. A masked diver in scarred tactical
