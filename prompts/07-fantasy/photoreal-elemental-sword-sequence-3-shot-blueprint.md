@@ -9,15 +9,33 @@ https://github.com/user-attachments/assets/140b9788-dfe3-4ab7-bde7-3ac494db200b
 **Prompt:**
 
 ```text
-【风格】好莱坞真人特效大片(Hollywood Live-Action Blockbuster)，IMAX电影画质，8K超清，真实摄影(Photorealistic)，暗黑奇幻(Dark
-Fantasy)，虚幻引擎5写实渲染，无动漫感。 【时长】15秒 【场景】月光下真实的迷雾森林，地面是湿润的泥土和真实的落叶。 [00:00-00:05]
-镜头1：真人演绎·水之呼吸(Realistic Water FX)。 【特写】一名亚洲少年剑客(真实演员脸部毛孔可见)，身穿绿黑格纹的粗布羽织(布料纹理清晰)。 动作：他在月光下双手握刀，压低重心。
-特效：随着他呼吸，刀刃上并未出现卡通水流，而是凝聚出**高度写实的、透明且发光的加压高压水流(Hyper-realistic Fluid
-Simulation)**。水流像一条活龙一样缠绕着真实的刀身，水滴飞溅在镜头上，折射出月光。 [00:05-00:10] 镜头2：雷霆一闪·极致速度(Lightning Plasma)。
-【中景/高速摄影】对面是一名染着金发的青年剑客(真实发丝飘动)，身穿黄色三角纹理的织物外套。 动作：他做出居合斩的起手式，脚下的泥土因为用力过猛而炸裂。
-特效：空气中爆发出**真实的刺眼蓝白色电流(Real Plasma Arcs)**，而不是黄色卡通闪电。电流击穿了周围的真实树木，留下烧焦的痕迹。 [00:10-00:15]
-镜头3：宿命对决·物理碰撞(Physics Clash)。 【慢动作/大爆炸】两人在画面中心极速对撞。 动作：实体水流巨剑与雷电光刃狠狠撞击在一起。
-特效：没有漫画线条，只有**真实的物理粒子爆炸**。大量的水蒸气、泥浆、被震断的树枝和耀眼的电火花在空中四散飞溅。冲击波将两人脚下的积水震起一圈圈真实的涟漪。画面极具重量感和破坏力。
+【Style】Hollywood Live-Action Blockbuster, IMAX movie quality, 8K ultra-high definition,
+photorealistic cinematography, dark fantasy, Unreal Engine 5 realistic rendering, no anime feel.
+【Duration】15 seconds 【Scene】A realistic misty forest under the moonlight, with damp soil and real
+fallen leaves on the ground.
+
+[00:00-00:05] Shot 1: Live-Action Performance - Water Breathing (Realistic Water FX). 【Close-up】An
+Asian young swordsman (the pores on the actor's face are visible), wearing a green and black
+checkered coarse cloth haori (the fabric texture is clear). Action: He holds his sword with both
+hands under the moonlight, lowering his center of gravity. Special Effects: As he breathes, instead
+of cartoonish water flow, **highly realistic, transparent, and luminous pressurized high-pressure
+water flow (Hyper-realistic Fluid Simulation)** condenses on the blade. The water, like a living
+dragon, coils around the realistic sword blade, water droplets splashing onto the lens and
+refracting moonlight.
+
+[00:05-00:10] Shot 2: Lightning Plasma. [Medium Shot/High-Speed ​​Photography] Opposite is a young
+swordsman with dyed blond hair (real hair flowing), wearing a yellow triangular-patterned fabric
+jacket. Action: He makes the starting stance for an iaido slash, the ground beneath his feet
+cracking due to the excessive force. Effects: **Real, blinding blue-white electric currents (Real
+Plasma Arcs)** erupt in the air, instead of yellow cartoon lightning. The current pierces through
+the surrounding real trees, leaving scorched marks.
+
+[00:10-00:15] Shot 3: Fated Showdown - Physics Clash. [Slow Motion/Big Explosion] The two collide at
+high speed in the center of the frame. Action: The solid water giant sword collides violently with
+the lightning blade. Effects: No comic book lines, only **real physical particle explosions**. Large
+amounts of water vapor, mud, broken tree branches, and dazzling sparks flew through the air. The
+shockwave created realistic ripples in the water beneath their feet. The scene was incredibly
+powerful and destructive.
 ```
 
 ← [Back to category index](README.md)

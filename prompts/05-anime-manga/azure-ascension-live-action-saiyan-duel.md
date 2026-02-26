@@ -9,7 +9,7 @@ https://github.com/user-attachments/assets/5fad1f7b-63dd-4aa1-92a5-ffc425c96dd1
 **Prompt:**
 
 ```text
-live action Saiyan battle between Goku & Vegeta, super saiyan blue
+Live action Saiyan battle between Goku & Vegeta, super saiyan blue
 ```
 
 ← [Back to category index](README.md)

@@ -9,7 +9,7 @@ https://github.com/user-attachments/assets/461f4904-0112-4954-a853-9249c5f7b7c7
 **Prompt:**
 
 ```text
-generate a video about  a running scene, behind is a giant monster big as a building with 100 floor
+Generate a video about  a running scene, behind is a giant monster big as a building with 100 floor
 is coming close, using Arcane style.
 ```
 

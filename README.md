@@ -1,4 +1,4 @@
-# Awesome Seedance Prompts 🎬
+# Awesome Seedance 2.0 Prompts 🎬
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
@@ -23,33 +23,30 @@
 
 ## ⭐ Best Prompts
 
-### 1. [Wasteland Convoy Breakout](prompts/11-epic-spectacle/wasteland-convoy-breakout.md)
-*Mad Max-style convoy breakout - scorched desert chase, multi-shot escalation, vehicular chaos.*
+### 1. [Mythic Monkey King Clash](prompts/04-action-fight/wu-kong-vs-homelander.md)
+*Mythic Wukong vs Homelander duel - tight choreography, timed VFX beats, 4s segments.*
 
-https://github.com/user-attachments/assets/ebff3e7f-346d-4cda-b458-314e40468488
+https://github.com/user-attachments/assets/609bd586-3425-41d8-93d5-fa29513b0f05
 
-**Source:** [Dana Akerman Green](https://x.com/DanaGreenAI) - [Post](https://x.com/DanaGreenAI/status/2022060390411383290) · _Created: February 12_
-
-**Prompt:**
-
-```text
-A multi shot high action epic video about exodus story in the style of mad max
-```
-
-### 2. [Hashbrowns, Drama, Repeat](prompts/13-comedy-meme/hashbrowns-drama-repeat.md)
-*24/7 diner meltdown skit - nonstop tickets, deadpan staff, chaotic interruptions.*
-
-https://github.com/user-attachments/assets/4068f0f8-3302-4c2f-b5f3-4ff75c32dd2f
-
-**Source:** [Charles Curran](https://x.com/charliebcurran) - [Post](https://x.com/charliebcurran/status/2022017937192956372) · _Created: February 12_
+**Source:** [chimi チミワウ](https://x.com/chimiwaw) - [Post](https://x.com/chimiwaw/status/2022091833632076051) · _Created: February 12_
 
 **Prompt:**
 
 ```text
-An average shift at Waffle House - make sure it's chaotic and gets 50 likes.
+Music Accompanying Scene 1: "Sun Wukong stands on the roof of the city, brandishing his golden
+cudgel, his robe fluttering in the wind. The city lights illuminate the night, creating a cinematic
+and epic feel. The camera slowly zooms in on the image, 4 seconds." Music Accompanying
+Scene 2: "Homelander descends slowly from the sky, his eyes glowing with red laser light. Dark
+clouds churn, superhero movie style, slow motion, 4 seconds." Music Accompanying
+Scene 3: "Sun Wukong attacks Homelander at high speed, swinging his golden cudgel. The air shakes,
+action movie effect, motion blur effect, slow motion, 4 seconds." Music Accompanying
+Scene 4: "Homelander fires a red laser, colliding with the golden cudgel's energy. The sky explodes,
+the clouds tear apart, science fiction film style, intense light effects, 4 seconds."
+Scene 5: "The two float in the air, facing each other, energy ripples spreading. Epic closing scene,
+wide angle, cinematic composition, 4 seconds."
 ```
 
-### 3. [10s MV Trio: Pop • Guofeng • Neon Bass](prompts/03-ugc-social/10s-mv-trio-pop-guofeng-neon-bass.md)
+### 2. [10s MV Trio: Pop • Guofeng • Neon Bass](prompts/03-ugc-social/10s-mv-trio-pop-guofeng-neon-bass.md)
 *10s MV trio pack - beat-synced cuts, three styles, high rewatch rhythm.*
 
 https://github.com/user-attachments/assets/3603f5d2-900f-4e2d-afba-570851980a01
@@ -59,54 +56,163 @@ https://github.com/user-attachments/assets/3603f5d2-900f-4e2d-afba-570851980a01
 **Prompt:**
 
 ```text
-以下是用版本一的提示词生成的。 视频生成：10秒的音乐卡点MV 10秒、音乐卡点MV、16:9或9:16。 以下是3个不同风格版本： 版本一：K-pop女团·快切卡点（高燃舞台） Seedance
-2.0 提示词 10秒K-pop女团MV卡点镜头，2.35:1宽银幕，24fps，8个快切镜头。0-1秒：低机位仰拍，舞台地面四个女团成员以三角阵型站立，灯光随节拍闪，舞台"像能听见震动"，全员同时吸
-气准备；2-3秒：主唱中心位特写，嘴角呼吸与眼 神抓镜头，轻微头发飘动，背景光从冷蓝转粉紫；4-5秒：群舞中景，动作爆发，脚步声开始进来，全员整齐划一甩发转身，动作行云流水；6-7秒：手部特写，手势带
-动衣料声和饰品轻响，戒指在灯光下闪烁；8-9秒：双人侧面，
-动作更复杂，脚步更密，镜头跟动作切，两人的手部配合精准卡点；10秒：排阵近景定格0.5秒，最后一声脚步/砸点收尾。全局：霓虹高饱和冷暖对比，浅景深突出动作，禁止文字logo水印。 ---
-版本二：古风国风·笛韵悠悠（意境卡点） Seedance 2.0 提示词 10秒国风MV卡点镜头，9:16竖屏，水墨诗画风格。0-2秒：大远景固定镜头，竹林深处一位白衣女子背对镜头抚弄古琴，烟雾缓缓从
-琴底升起，竹叶随琴音微微颤动；3-4秒：镜头以慢动作推进至女子侧脸，她睫毛轻颤，嘴角含笑 琴弦在指下震颤，背景虚化处理；5-7秒：女子抬眼望向镜头的瞬间，画面卡点切入——无数粉色花瓣从虚空中飘落，镜头
-缓缓旋转360度展示花瓣环绕的绝美画面，每片花瓣都清晰可见；8-9秒：镜头拉远重新回到大远景，女子转身
-面向镜头，衣袍随风飘动，身后竹林在夕照下泛金，她轻抚古琴琴弦定格；10秒：画面渐变为水墨晕染效果，最后收束在古琴余韵与竹叶沙沙声中。 --- 版本三：电音Future Bass·霓虹雨夜（赛博卡点）
-Seedance 2.0 提示词 10秒电音Future Bass
-MV卡点镜头，超宽银幕，霓虹都市夜景。0-1秒：固定镜头，雨夜都市街道霓虹灯光在地面反射，积水坑中倒映着赛博朋克建筑，画面节奏与低频Bass同步轻微抖动；2-4秒：镜头沿街道快速前推，穿过雨帘 每一滴
-雨水都在Bass重拍时溅起水花，镜头速度随音乐节奏忽快忽慢；5-7秒：切入人物视角，一个戴耳机女生在雨中起舞，她的动作与Bass完美卡点——每次重拍身体都定格一帧形成顿挫感，霓虹灯光在她身上形成光轨拖
-尾，雨滴 在空中被音乐震得碎裂；8-9秒：镜头急速拉远上摇，俯瞰整条霓虹街道，雨中的Bass可视化波纹从街道中心一圈圈扩散，每个波纹都精准对应一次重拍；10秒：画面定格在俯瞰视角，街景在最后一拍时瞬间
-黑白反转然后渐黑，收 束在Bass余震与雨声渐弱中。
+The following was generated using the prompts from version 1. Video generation: 10-second music
+video with beat syncing. 10 seconds, music video with beat syncing, 16:9 or 9:16. Here are 3
+different style versions:
+
+Version 1: K-pop girl group - fast cut beat syncing (high-energy stage) Seedance 2.0 Prompts:
+10-second K-pop girl group MV beat syncing footage, 2.35:1 widescreen, 24fps, 8 fast cut shots.
+
+0-1 second: Low-angle shot, four girl group members standing in a triangular formation on the stage
+floor, lights flashing with the beat, the stage "seems to vibrate," all members simultaneously
+inhale in preparation;
+
+2-3 seconds: Close-up of the lead vocalist in the center, breath and eyes gripping the camera, hair
+slightly swaying, background light shifting from cool blue to pinkish-purple;
+
+4-5 seconds: Medium shot of group dance, movements exploding, footsteps starting to enter, all
+members simultaneously tossing their hair and turning, movements fluid and graceful;
+
+6-7 seconds: Close-up of hands, gestures causing the fabric to rustle and accessories to jingle,
+rings flashing under the lights;
+
+8-9 seconds: Side view of two members, movements more complex, footsteps more frequent, the camera
+cuts to the movements, the two members' hands precisely coordinated;
+
+10 seconds: Close-up of the formation, frozen for 0.5 seconds, ending with a final footstep/beat.
+Overall: High-saturation neon lights with contrasting warm and cool tones, shallow depth of field
+highlighting the movements, no text, logos, or watermarks. ---
+
+Version 2: Ancient Chinese Style - Melodious Flute (Memories and Beats) Seedance 2.0 Prompt:
+10-second Chinese style MV beat-matching shot, 9:16 vertical screen, ink painting style.
+
+0-2 seconds: A wide, fixed shot shows a woman in white playing a guqin (a seven-stringed zither)
+deep in a bamboo forest, her back to the camera. Smoke rises slowly from the bottom of the
+instrument, and the bamboo leaves tremble slightly with the music.
+
+3-4 seconds: The camera zooms in on the woman's profile in slow motion. Her eyelashes flutter, and
+she smiles as the strings vibrate under her fingers. The background is blurred.
+
+5-7 seconds: The moment the woman looks up at the camera, the scene cuts in—countless pink petals
+fall from the sky. The camera slowly rotates 360 degrees to show the stunning scene of the petals
+surrounding her, each petal clearly visible.
+
+8-9 seconds: The camera pulls back to a wide shot. The woman turns to face the camera, her robes
+fluttering in the wind. The bamboo forest behind her glows golden in the sunset. She gently touches
+the strings of the guqin, and the scene freezes.
+
+10 seconds: The scene gradually transitions to an ink wash effect, finally ending with the lingering
+sound of the guqin and the rustling of the bamboo leaves.
+
+--- Version 3: Electronic Music Future Bass·Neon Rainy Night (Cyber ​​Beat) Seedance 2.0 Cue words:
+10-second electronic music Future Bass MV beat-matching shot, ultra-wide screen, neon city night
+scene.
+
+0-1 second: Fixed shot, neon lights of a rainy city street reflect on the ground, cyberpunk
+architecture is reflected in puddles, the rhythm of the scene is slightly jittery in sync with the
+low-frequency bass;
+
+2-4 seconds: The camera quickly pushes forward along the street, through the rain curtain, each
+raindrop splashing with each bass beat, the camera speed fluctuating with the music rhythm;
+
+5-7 seconds: Cut to the character's perspective, a girl wearing headphones dances in the rain, her
+movements perfectly synchronized with the bass—each beat freezes her body for a sense of abruptness,
+neon lights create light trails on her body, raindrops shatter in the air from the music;
+
+8-9 seconds: The camera rapidly pulls back and pans upwards, overlooking the entire neon street,
+visual ripples of the bass in the rain radiate from the center of the street, each ripple precisely
+corresponding to a beat; 10 seconds: The scene freezes at the overhead view, the street scene
+instantly reverses to black and white on the last beat and then fades to black, ending with the
+aftershocks of the bass and the fading sound of the rain.
 ```
 
-### 4. [Photoreal Elemental Sword Sequence (3-Shot Blueprint)](prompts/07-fantasy/photoreal-elemental-sword-sequence-3-shot-blueprint.md)
-*Elemental sword duel - 8K realism, fluid arcs, plasma lightning clash.*
+### 3. [Reflection Anomaly (15s Horror Template)](prompts/08-horror/reflection-anomaly-15s-horror-template.md)
+*Mirror-reflection glitch horror - fixed cam, uncanny delay, escalating dread.*
 
-https://github.com/user-attachments/assets/140b9788-dfe3-4ab7-bde7-3ac494db200b
+https://github.com/user-attachments/assets/25f908a1-886a-4c65-a766-cc31dd47b075
 
-**Source:** [John](https://x.com/johnAGI168) - [Post](https://x.com/johnAGI168/status/2021786934536740871) · _Created: February 12_
+**Source:** [MappleShaw](https://x.com/msjiaozhu) - [Post](https://x.com/msjiaozhu/status/2021777584913363052) · _Created: February 12_
 
 **Prompt:**
 
 ```text
-【风格】好莱坞真人特效大片(Hollywood Live-Action Blockbuster)，IMAX电影画质，8K超清，真实摄影(Photorealistic)，暗黑奇幻(Dark
-Fantasy)，虚幻引擎5写实渲染，无动漫感。 【时长】15秒 【场景】月光下真实的迷雾森林，地面是湿润的泥土和真实的落叶。 [00:00-00:05]
-镜头1：真人演绎·水之呼吸(Realistic Water FX)。 【特写】一名亚洲少年剑客(真实演员脸部毛孔可见)，身穿绿黑格纹的粗布羽织(布料纹理清晰)。 动作：他在月光下双手握刀，压低重心。
-特效：随着他呼吸，刀刃上并未出现卡通水流，而是凝聚出**高度写实的、透明且发光的加压高压水流(Hyper-realistic Fluid
-Simulation)**。水流像一条活龙一样缠绕着真实的刀身，水滴飞溅在镜头上，折射出月光。 [00:05-00:10] 镜头2：雷霆一闪·极致速度(Lightning Plasma)。
-【中景/高速摄影】对面是一名染着金发的青年剑客(真实发丝飘动)，身穿黄色三角纹理的织物外套。 动作：他做出居合斩的起手式，脚下的泥土因为用力过猛而炸裂。
-特效：空气中爆发出**真实的刺眼蓝白色电流(Real Plasma Arcs)**，而不是黄色卡通闪电。电流击穿了周围的真实树木，留下烧焦的痕迹。 [00:10-00:15]
-镜头3：宿命对决·物理碰撞(Physics Clash)。 【慢动作/大爆炸】两人在画面中心极速对撞。 动作：实体水流巨剑与雷电光刃狠狠撞击在一起。
-特效：没有漫画线条，只有**真实的物理粒子爆炸**。大量的水蒸气、泥浆、被震断的树枝和耀眼的电火花在空中四散飞溅。冲击波将两人脚下的积水震起一圈圈真实的涟漪。画面极具重量感和破坏力。
+【Style】Mockumentary (Vlog Style), hyperrealism, fixed camera angle, natural lighting, with a touch
+of suspense and thriller. 【Duration】15 seconds 【Main Character (Remember to upload reference
+image)】A sexy young woman preparing to wash up and go to bed in front of the sink in her bathroom.
+
+[00:00-00:06] Shot 1: Normalcy. Scene: In front of a large mirror in a normal bathroom. Action: The
+protagonist is brushing her teeth in front of the mirror, her mouth full of foam. While brushing her
+teeth, she makes various funny faces (winking and making faces) in the mirror. Key Detail: At this
+moment, the reflection in the mirror is completely normal, and the actions are synchronized.
+
+[00:06-00:11] Shot 2: The Glitch. Action: After brushing her teeth, the protagonist bends down to
+spit out the foam, then turns to leave the bathroom. High-Energy Moment (Core Breakthrough): Just as
+the protagonist's real body has turned and left the mirror's frame, the "reflection" in the mirror
+**doesn't move**! The "reflection" remained in the brushing-teeth pose, even raising an eyebrow at
+the camera with a wicked grin, lingering for a full two seconds before suddenly and frantically
+"flashing" to catch up with the main body and disappearing. Director's Note: To create an extremely
+realistic "network latency" feel, the reflection should have an independent consciousness.
+
+[00:11-00:15] Shot 3: The Punchline. Action: The protagonist, who had already reached the door,
+seemed to sense something was wrong and abruptly turned to look at the mirror. Result: The mirror
+had now completely returned to normal, empty except for the opposite wall. The protagonist,
+bewildered and frightened, looked around the room with a horrified expression. The scene freezes on
+the protagonist's bewildered face (horror movie effect).
 ```
 
-### 5. [WWII Chase Template](prompts/09-sci-fi-cyberpunk/wwii-chase-template.md)
-*WWII motorcycle escape - period detail, practical blasts, kinetic coverage.*
+### 4. [Butterfly Fairy Tale](prompts/07-fantasy/butterfly-fairy-tale.md)
+*Butterfly-to-fairy vignette - whimsical morph, mood reaction beat, quick retreat.*
 
-https://github.com/user-attachments/assets/5ade4e01-a8c7-4b76-8797-ce7c4bf01cf8
+https://github.com/user-attachments/assets/c276f6ef-4b96-4488-b078-ead6e932a0c0
 
-**Source:** [pewden AI](https://x.com/pewdenai) - [Post](https://x.com/pewdenai/status/2021648907915411795) · _Created: February 11_
+**Source:** [小耳👂Jane｜Xiaoer](https://x.com/xiaoerzhan) - [Post](https://x.com/xiaoerzhan/status/2021564173642313750) · _Created: February 11_
 
 **Prompt:**
 
 ```text
-create a cinematic WW2 motorcycle escape sequence that makes sora and veo question their existence
+A story of a magical artifact: a butterfly flies out of the picture and transforms into a beautiful
+butterfly fairy. Looking around, she suddenly senses someone approaching, and the butterfly fairy
+returns to the wall.
+```
+
+### 5. [Indian Bollywood Action Blockbuster](prompts/04-action-fight/indian-Bollywood-action.md)
+*Bollywood mass action setpiece - gravity stunts, slow-mo build-ups, explosive impacts.*
+
+https://github.com/user-attachments/assets/964e1b9e-19b6-4aee-9810-6ce299bfda76
+
+**Source:** [John](https://x.com/johnAGI168) - [Post](https://x.com/johnAGI168/status/2021472044295070168) · _Created: February 11_
+
+**Prompt:**
+
+```text
+【Style】 An Indian Telugu action blockbuster (Tollywood Action Blockbuster), featuring extremely
+exaggerated anti-gravity physics, slow-motion slow motion and fast-slow-motion transitions
+(Ramp-mo), dusty scenes, an epic BGM atmosphere, no gore, and a focus on impact. 【Duration】15
+seconds 【Scene】A dusty abandoned quarry or construction site, with strong sunlight and a strong
+wind. 【Characters】 Protagonist (Hero): With a signature beard, sunglasses, and a denim jacket, he
+walks with a confident and domineering air. Opponents (Goons): Dozens of thugs dressed in haphazard
+clothes, whose main purpose is to be knocked away. 【Scene Breakdown】
+
+[00:00-00:05] Shot 1: The Hero Entry and the Hero's Arrival Visuals: Extremely slow motion (Super
+Slow-mo). The protagonist walks slowly, with a whirlwind of yellow sand behind him. Action: He
+casually raises his hand and waves it (it doesn't seem to use much force). Special Effects: Just the
+palm wind causes the five thugs at the front to fly backward like kites with broken strings, defying
+the laws of physics (flying at least 15 meters high), spinning slowly in the air.
+
+[00:05-00:10] Scene 2: Newton's Laws Defied (Physics Defied) Visuals: Fast and slow motion
+switching. The protagonist instantly accelerates and rushes into the crowd. Action: The protagonist
+delivers a spinning kick. The target hits instantly knocks down ten people behind him, creating a
+domino effect. Special Effects: A huge shockwave causes a ring of dust to explode on the ground. All
+the thugs, upon contact with the protagonist's fists and feet, are exaggeratedly ejected in all
+directions with large amounts of white dust (representing blood), smashing surrounding wooden crates
+and props.
+
+[00:10-00:15] Scene 3: The Ultimate Power Move. Scene: The protagonist removes his sunglasses and
+gives the camera a wicked smile (Blinking Moment). Action: A jeep rushes towards him. He doesn't
+dodge or flinch, but kicks it head-on. Special Effects: The jeep, upon contact with his toes, is
+kicked vertically into the air like a toy car, tumbling and scattering parts everywhere. Amidst the
+falling car parts and flying thugs in the background, the protagonist calmly puts his sunglasses
+back on and fixes his hair.
 ```
 
 ---
@@ -166,8 +272,10 @@ https://github.com/user-attachments/assets/2eb3f848-0854-4870-bc2a-cfb53088c503
 **Prompt:**
 
 ```text
-{这是一段街头场景吴宇森式枪斗打戏的画面，请基于场景图片3，生成一段流畅的白色西服男子"图片1"的真实效果下和花衬衫男子"图片2真实效果"下在狭隘空间里的枪战画面，需要运用到分镜和不同视角切换，让整个
-画面更有节奏感和电影感。 }
+This is a street scene depicting a John Woo-style gunfight. Based on scene image 3, please generate
+a smooth gunfight scene in a confined space, using realistic effects of the man in the white suit
+(image 1) and the man in the floral shirt (image 2). This should utilize shot splits and different
+perspectives to create a more rhythmic and cinematic feel.
 ```
 
 ### 1.3 [Suit vs. Suit: Corridor Cover-Up](prompts/01-cinematic-vfx/suit-vs-suit-corridor-cover-up.md)
@@ -236,7 +344,7 @@ https://github.com/user-attachments/assets/461f4904-0112-4954-a853-9249c5f7b7c7
 **Prompt:**
 
 ```text
-generate a video about  a running scene, behind is a giant monster big as a building with 100 floor
+Generate a video about  a running scene, behind is a giant monster big as a building with 100 floor
 is coming close, using Arcane style.
 ```
 
@@ -255,6 +363,58 @@ intense fight choreography, dramatic camera cuts, cinematic lighting, slow motio
 effects, film grain texture, high tension
 ```
 
+### 1.8 [Tokyo Race Scene](prompts/01-cinematic-vfx/tokyo-race-scene.md)
+*Neon Tokyo street race - multi-scene pacing, dynamic lighting, fast transitions.*
+
+https://github.com/user-attachments/assets/466fd8c2-66ea-4635-92bf-f9cf6d8c79cf
+
+**Source:** [Pierrick Chevallier | IA](https://x.com/CharaspowerAI) - [Post](https://x.com/CharaspowerAI/status/2021607724232868147) · _Created: February 11_
+
+**Prompt:**
+
+```text
+SHOT1 Close-up inside the cockpit, a male driver in his 30s grips the suede steering wheel of a
+low-slung race car. He’s focused, sweat on his temple, lit only by blue dashboard LEDs and passing
+neon reflections from outside. Tokyo’s city lights flicker across the windshield. Camera slowly
+pushes in, locked on his intense gaze through the rearview mirror.
+
+SHOT2 Side profile mid shot, from the passenger seat view. The driver shifts gears with a snap, neon
+signage from outside streaks across his face in sharp reflections. The city races by — puddles
+splash under the tires. Camera pans with him as he leans forward, eyes narrowing.
+
+SHOT3 Exterior low rear shot, the car’s tail lights flare as he slams the NOS button. Blue flames
+erupt from the exhaust. The car launches forward, disappearing into the glowing Tokyo streets.
+Camera tracks behind, lights blurring, engine scream echoing in the distance.
+```
+
+### 1.9 [Magical Transformation](prompts/01-cinematic-vfx/magical-transformation.md)
+*Mystic eye awakening on bridge - close-up tension, rapid zoom-out, sky-launch surge.*
+
+https://github.com/user-attachments/assets/15131b1d-4422-4cb4-8b8e-144d5eb42c1b
+
+**Source:** [CoffeeVectors](https://x.com/CoffeeVectors) - [Post](https://x.com/CoffeeVectors/status/2021463701421699374) · _Created: February 11_
+
+**Prompt:**
+
+```text
+The woman kneels down slowly onto the wooden bridge. Camera zooms in tightly to an extreme close-up
+of her left eye, which begins glowing intensely with bright magical energy. Camera switch. Camera
+rapidly zooms out as she launches powerfully upward into the air, her body
+```
+
+### 1.10 [Explosion and Physics Scene](prompts/01-cinematic-vfx/explosion-and-physic-scene.md)
+*Realistic explosion test - shockwave physics, debris motion, natural light response.*
+
+https://github.com/user-attachments/assets/8cb9d410-e5bb-4398-81c7-aed640be5f74
+
+**Source:** [Caleb](https://x.com/sygmod) - [Post](https://x.com/sygmod/status/2021443433811136831) · _Created: February 11_
+
+**Prompt:**
+
+```text
+A few shots to include. The explosion and physics is so on point without much guidance.
+```
+
 → [View all prompts in this category](prompts/01-cinematic-vfx/)
 
 ## 2. Commercial & Product
@@ -270,7 +430,7 @@ https://github.com/user-attachments/assets/fd5fe747-7dc2-4609-8a67-4fb638f3f8e8
 **Prompt:**
 
 ```text
-a Creature is driving extremely fast through the futuristic city, 4 scene cut changes from dramatic
+A creature is driving extremely fast through the futuristic city, 4 scene cut changes from dramatic
 angles
 ```
 
@@ -284,13 +444,29 @@ https://github.com/user-attachments/assets/2394d121-bf07-4676-b6e1-0996720b9327
 **Prompt:**
 
 ```text
-品牌Y·未来已至（15秒·好莱坞商业大片版） 核心创意 拥堵的地面（现实困境） -> 机械变形（科技高光） -> 垂直起飞（自由与未来）。 风格设定 顶级汽车广告质感(High-end Car
-Commercial)。赛博朋克未来城市，冷雨夜，霓虹光影。8K超清，变形金刚级别的机械细节，极速流光感。 分镜详解 镜头1：地面困境
-画面：特写。一辆极具流线型的银色超跑“Y”在拥堵的霓虹雨夜街道上静止。雨水滑过它光滑的车漆，反射着红色的尾灯。
-细节：车头极简的“Y”发光Logo微微闪烁呼吸灯。周围是嘈杂的喇叭声，主角（车）显得冷静而优雅。 镜头2：机械觉醒 画面：极致微距特写(Extreme Macro)。
-动作：驾驶模式切换。车轮内部发出精密的机械咬合声，轮胎向下翻转90度，内部喷射口露出。 特效：幽蓝色的等离子推进器瞬间点火，将路面的雨水瞬间蒸发成白雾。车身在众人的惊呼中平稳垂直悬浮。
-镜头3：凌空未来 画面：广角跟随镜头。 动作：由静止瞬间加速。汽车“Y”化作一道银色闪电，垂直拉升，在摩天大楼之间极速穿梭，将地面的红色车流抛在脚下。
-结尾定格：车身飞向巨大的满月，画面中心浮现银色金属立体Logo：“Y - Drive the Future”。
+Brand Y: The Future Has Arrived (15-Second Hollywood Blockbuster Version) Core Creative Concept:
+Congested Ground (Real-world Dilemma) -> Mechanical Transformation (Technological Highlights) ->
+Vertical Takeoff (Freedom and the Future). Style Setting: High-end Car Commercial. Cyberpunk
+futuristic city, cold rainy night, neon lights. 8K ultra-high definition, Transformers-level
+mechanical details, and a sense of extreme speed and light.
+
+Storyboard Breakdown:
+Scene 1: Ground Dilemma Visual: Close-up. A sleek silver supercar, "Y," is stationary on a
+congested, neon-lit rainy night street. Rainwater slides across its smooth paint, reflecting off the
+red taillights. Details: The minimalist "Y" logo on the front of the car subtly flashes its
+breathing light. Amidst the cacophony of horns, the protagonist (the car) appears calm and elegant.
+
+Scene 2: Mechanical Awakening Visual: Extreme macro close-up. Action: Switching driving modes. A
+precise mechanical meshing sound emanated from inside the wheels as the tires flipped downwards 90
+degrees, revealing their internal jets. Special Effects: The eerie blue plasma thrusters ignited
+instantly, evaporating rainwater from the road into a white mist. Amidst gasps of astonishment, the
+car smoothly and vertically levitated.
+
+Scene 3: Soaring into the Future. Visuals: Wide-angle tracking shot. Action: Instant acceleration
+from a standstill. The car, shaped like a "Y," transformed into a silver lightning bolt, rising
+vertically and speeding through skyscrapers, leaving the red traffic below in its wake. Final frame:
+The car flew towards a giant full moon, with a silver metallic 3D logo appearing in the center of
+the frame: "Y - Drive the Future."
 ```
 
 → [View all prompts in this category](prompts/02-commercial-product/)
@@ -332,30 +508,7 @@ girl, with anthropomorphic standing poses.
 ## 4. Action & Fight
 Dynamic combat-oriented prompts built for impactful choreography, kinetic camera movement, and clearly readable high-intensity action sequences.
 
-### 4.1 [Mythic Monkey King Clash](prompts/04-action-fight/wu-kong-vs-homelander.md)
-*Mythic Wukong vs Homelander duel - tight choreography, timed VFX beats, 4s segments.*
-
-https://github.com/user-attachments/assets/609bd586-3425-41d8-93d5-fa29513b0f05
-
-**Source:** [chimi チミワウ](https://x.com/chimiwaw) - [Post](https://x.com/chimiwaw/status/2022091833632076051) · _Created: February 12_
-
-**Prompt:**
-
-```text
-Music Accompanying Scene 1: "Sun Wukong stands on the roof of the city, brandishing his golden
-cudgel, his robe fluttering in the wind. The city lights illuminate the night, creating a cinematic
-and epic feel. The camera slowly zooms in on the image, 4 seconds." Music Accompanying
-Scene 2: "Homelander descends slowly from the sky, his eyes glowing with red laser light. Dark
-clouds churn, superhero movie style, slow motion, 4 seconds." Music Accompanying
-Scene 3: "Sun Wukong attacks Homelander at high speed, swinging his golden cudgel. The air shakes,
-action movie effect, motion blur effect, slow motion, 4 seconds." Music Accompanying
-Scene 4: "Homelander fires a red laser, colliding with the golden cudgel's energy. The sky explodes,
-the clouds tear apart, science fiction film style, intense light effects, 4 seconds."
-Scene 5: "The two float in the air, facing each other, energy ripples spreading. Epic closing scene,
-wide angle, cinematic composition, 4 seconds."
-```
-
-### 4.2 [Bamboo Run: Duel at Dusk](prompts/04-action-fight/bamboo-run-duel-at-dusk.md)
+### 4.1 [Bamboo Run: Duel at Dusk](prompts/04-action-fight/bamboo-run-duel-at-dusk.md)
 *Wuxia bamboo forest duel - sweeping moves, tight cut-ins, thunder clash slow-mo.*
 
 https://github.com/user-attachments/assets/ee15c7dc-9001-4e3e-b3cb-4cd9709ab49b
@@ -375,7 +528,7 @@ blades, along with bamboo leaves sliced by sword aura. Normal speed resumes as t
 back-to-back. The straw-caped blademaster's bamboo hat splits open, and the scene cuts abruptly.
 ```
 
-### 4.3 [Three-Way Kill Box: Suit, Assassin, Unknown](prompts/04-action-fight/three-way-kill-box-suit-assassin-unknown.md)
+### 4.2 [Three-Way Kill Box: Suit, Assassin, Unknown](prompts/04-action-fight/three-way-kill-box-suit-assassin-unknown.md)
 *Three-way melee showdown - handheld urgency, whip-pans, alliances flip mid-fight.*
 
 https://github.com/user-attachments/assets/e491b0e3-937b-466a-a62e-0815e1f1a5fa
@@ -388,7 +541,7 @@ https://github.com/user-attachments/assets/e491b0e3-937b-466a-a62e-0815e1f1a5fa
 A fast-paced fight scene: John Wick &. James Bond (007) & another guy — a three-way brutal showdown.
 ```
 
-### 4.4 [Modern Air Combat Cinematic Template](prompts/04-action-fight/modern-air-combat-cinematic-template.md)
+### 4.3 [Modern Air Combat Cinematic Template](prompts/04-action-fight/modern-air-combat-cinematic-template.md)
 *Modern jet dogfight - extreme speed, aggressive tracking, cockpit inserts.*
 
 https://github.com/user-attachments/assets/cb2cfc96-4ef0-4362-b0f8-88c8b89fe8bd
@@ -435,7 +588,7 @@ https://github.com/user-attachments/assets/5fad1f7b-63dd-4aa1-92a5-ffc425c96dd1
 **Prompt:**
 
 ```text
-live action Saiyan battle between Goku & Vegeta, super saiyan blue
+Live action Saiyan battle between Goku & Vegeta, super saiyan blue
 ```
 
 ### 5.3 [Gadget Cat vs. Web Hero Showdown](prompts/05-anime-manga/gadget-cat-vs-web-hero-showdown.md)
@@ -449,6 +602,84 @@ https://github.com/user-attachments/assets/08684e92-af7b-443b-a403-5fd163f655ed
 
 ```text
 Doramon and spiderman fighting very high quality and intense
+```
+
+### 5.4 [3D Lego Assembly Time-Lapse](prompts/05-anime-manga/3d-lego-assembly-time-lapse.md)
+*3D bedroom Lego timelapse - 15s storyboard, smooth camera moves, cozy light.*
+
+https://github.com/user-attachments/assets/0a2b7115-c161-4077-a138-bb20d529dc32
+
+**Source:** [维维](https://x.com/siveill) - [Post](https://x.com/siveill/status/2021635240985604526) · _Created: February 11_
+
+**Prompt:**
+
+```text
+A boy is diligently assembling LEGO bricks in his room. The scene uses a 3D animation style, with
+vibrant colors, smooth lines, and a playful, energetic feel, incorporating time-lapse effects to
+showcase the assembly process.
+
+0-3 seconds: A panoramic view of the room; sunlight streams through the window onto the table, where
+the boy sits focused on assembling LEGO bricks, his expression serious. The camera slowly zooms in.
+
+3-6 seconds: A time-lapse effect shows the boy quickly assembling the LEGO bricks, the bricks
+gradually taking shape in his hands. The camera switches to different angles.
+
+6-9 seconds: A close-up of his hands shows the boy skillfully assembling the LEGO bricks, his
+fingers deftly manipulating the bricks. The camera follows the hand movements.
+
+9-12 seconds: The time-lapse effect continues to show the assembly process; the LEGO creation
+gradually becomes complete, the boy's expression shifting from focused to satisfied.
+
+12-15 seconds: The boy looks up, a satisfied smile on his face. The camera pulls back to show his
+completed LEGO creation.
+```
+
+### 5.5 [Cozy Nighttime Pet Secret](prompts/05-anime-manga/cozy-nighttime-pet-secret.md)
+*Cat & dog midnight phone swap - docu-real CG, warm–cool lighting, six-shot beats.*
+
+https://github.com/user-attachments/assets/61acbc0d-bc45-45f3-8c67-b68c1339184d
+
+**Source:** [Michelle](https://x.com/Michell81147285) - [Post](https://x.com/Michell81147285/status/2021625396027088907) · _Created: February 11_
+
+**Prompt:**
+
+```text
+【Style】 Hyper-realistic cinematic CG, realistic pet documentary feel, warm and healing style,
+realistic fur physics simulation, clear details, 8K quality, soft warm color tone, nighttime indoor
+atmosphere. 【Duration】 15 seconds 【Scene Setting】 A realistic and cozy bedroom, door closed,
+nighttime environment, main light off, only the bedside lamp emits a warm yellow glow, the room is
+generally dark. There is a blanket on the bed, and two pets are peeking out. 🎞 Storyboard Design
+(including shot size + depth of field + lighting logic)
+
+0–3 seconds 【Shot Size】 Medium Shot 【Camera Movement】 Slightly slow zoom in 【Depth of Field】 Shallow
+depth of field, blurred background 【Visuals】 A chubby orange cat and an adorable Shiba Inu sit on
+the bed, the blankets covering their necks. Each is holding a phone. The phone screens are bright,
+the cool light shining on their faces. The bedside lamp emits warm light, contrasting with the cool
+light from the phones. The two pets are grinning as they stare at the screens.
+
+3–6 seconds [Shot Type] Close-up [Camera Movement] Slightly handheld [Depth of Field] Very shallow
+depth of field [Scene] The orange cat's ears suddenly perk up. Its expression changes from happy to
+alert. The phone light flashes on its face.
+
+6–8 seconds [Shot Type] Close-up [Action] The orange cat quickly turns off its phone. The
+cool-colored phone light disappears. Only the warm-colored desk lamp remains in the room. The orange
+cat crawls into bed, only a small tuft of fur showing.
+
+8–10 seconds [Shot Type] Medium close-up [Action] The orange cat quietly sticks out a small paw from
+under the covers and gently pokes the Shiba Inu. The Shiba Inu pauses for a moment. It quickly turns
+off its phone. The cool light disappears. It crawls into bed, closes its eyes, and pretends to be
+asleep.
+
+10–13 seconds [Shot Type] Long shot from the doorway [Camera Movement] Fixed lens [Depth of Field]
+Deep depth of field [Scene] The bedroom door slowly opens a crack. A golden retriever's head peeks
+in. Light weakly spills in from the hallway. The golden retriever examines the two dogs on the bed.
+
+13–15 seconds [Shot Type] Close-up of the Golden Retriever [Action] The Golden Retriever nods
+contentedly. The door closes gently. The scene returns to the bed, where both pets have their eyes
+closed. The Shiba Inu peeks open one eye. Blackout ends. 💡 Key words for generation (suggested to
+include): realistic fur simulation subtle breathing movement soft shadow transition warm and cool
+light contrast cinematic lighting natural micro expression quiet nighttime ambience cozy bedroom
+atmosphere
 ```
 
 → [View all prompts in this category](prompts/05-anime-manga/)
@@ -466,21 +697,77 @@ https://github.com/user-attachments/assets/e03255e3-f7db-403e-af24-188c1351a9d8
 **Prompt:**
 
 ```text
-视频提示词 主题：年轻漂亮男女经典对打·现代短剧 时长：15秒 比例：16:9 --- 版本一：霸总虐恋·误会分手（狗血拉扯） Seedance 2.0 提示词 15秒现代短剧，豪华总裁办公室场景，冷
-色调高级感。0-3秒：中景镜头，一名身着高定西装的年轻男子坐在真皮老板椅上，面容冷峻眼神淡漠，他面前站着一身白裙的漂亮女孩，女孩眼眶通红泪水在眼里打转，男子开口"我给过 机会"，声音低沉冷漠；4-8秒
-：女孩声音颤抖"你给过我什么机会？是你从一开始就没信任过我！"她转身就要走，男子猛然起身一把拽住她手腕，镜头跟拍两人拉扯，女孩被迫回头，两人距离极近呼吸可闻，女孩眼中闪过一丝留 但很快被倔强取代；9-
-12秒：男子盯着女孩的眼睛声音低沉"那你现在还要走吗"，女孩咬唇"走...我还能走哪"，她狠心甩开他的手转身就跑，男子伸手想抓但只抓到空气，手僵在半空；13-15秒：镜头跟拍女孩冲出办公室，她在
-梯前擦泪但眼泪止不住地流，电梯门缓缓关闭的瞬间她蹲下埋进手臂哭出声，画面最后定格在电梯数字从15往下跳动的特写，伴随钢琴低沉悲伤BGM。 --- 版本二：校花追爱·雨中告白（青春甜虐）
-Seedance 2.0 提示词 15秒现代校园短剧，雨夜教室走廊场景，冷蓝色调雨夜氛围。0-3秒：固定镜头，教室外大雨倾盆，窗户玻璃被雨点打得啪啪作响，一名穿着白衬衫的清秀男生站在走廊阴影里，手中握
-着一封粉色信件紧张地来回踱步，远处一个扎 高马尾的漂亮女生缓缓走来，女生每走一步镜头都轻微晃动营造紧张感；4-8秒：女生走近男生，男生深呼吸几度抬手想递信又缩回，女生停在男生面前歪头笑"你找我有事吗"
-，男生慌乱"我...我..."话没说完上课铃突然响起，两 人都吓一跳，走廊灯光闪了闪；9-12秒：女生看一眼时间"快上课了，下次再说吧"转身就要走，男生鼓起勇气"等等！"，他一把拉住女生手腕，两人同时
-僵住，走廊里只剩下雨声和两人呼吸声，男生低头不看女生脸颊通红"这封信. ..给你"，女生愣住低头看着那封信；13-15秒：镜头缓慢推进至女生脸部特写，她嘴角慢慢扬起甜蜜笑容，眼中有星光闪烁，画面最后定
-格在她接过信的瞬间——雨窗外突然透进一缕阳光照在两人身上，收束在温柔钢琴旋律与雨声 弱中。 --- 版本三：闺蜜背叛·当面对质（爽文打脸） Seedance 2.0 提示词 15秒现代短剧，高级餐厅场
-景，暖金色调对比冷清情绪。0-3秒：中景固定镜头，漂亮女生正举着酒杯和朋友们庆祝生日，笑声欢愉，餐厅门突然被推开——一个她最信任的闺蜜挽着她男友的手走进来，全场笑声戛然而止，女生举着 酒杯的手僵在半空
-，笑容凝固；4-8秒：闺蜜看到女生后表情一瞬不自然，拉着男友想换个位置，男友却甩开她的手径直走向女生，把礼物盒放在她面前"生日快乐"，闺蜜脸色变得难看，女生看看男友又看看闺蜜，最后目光落在两 人手上—
-—闺蜜手腕上戴着男友前几天说"丢了的"同款手链；9-12秒：女生没说话只是静静拿起酒杯一饮而尽，然后站起身走到闺蜜面前，所有人屏息等待，女生微笑着把那瓶酒缓缓倒在闺蜜那个限量版包包上，闺蜜瞪大眼想尖叫
-被女生按住肩膀；13-15秒：女生凑近闺蜜耳边轻声"下次偷人的时候记得先把不该露的东西藏好"，闺蜜脸色煞白，女生转身潇洒离开，镜头拉远展示闺蜜站在原地浑身僵硬、男友追悔莫及，收束在低沉BGM与周围窃窃
-私语声中。
+Video prompts Theme: Classic fight between young and beautiful men and women - modern short drama
+Length: 15 seconds Aspect ratio: 16:9 ---
+
+Version 1: CEO's sadistic love - misunderstanding and breakup (melodramatic) Seedance 2.0 Prompts
+15-second modern short drama, luxurious CEO office scene, cool color tone and high-end feel.
+
+0-3 seconds: Medium shot. A young man in a bespoke suit sits in a leather executive chair, his face
+cold and his eyes indifferent. A beautiful girl in a white dress stands before him, her eyes red and
+brimming with tears. The man speaks, "I gave you a chance," his voice low and cold.
+
+4-8 seconds: The girl's voice trembles, "What chance did you give me? You never trusted me from the
+beginning!" She turns to leave, but the man suddenly stands up and grabs her wrist. The camera
+follows their struggle, forcing the girl to turn back. They are extremely close, their breaths
+mingling. A flicker of hesitation flashes in the girl's eyes, quickly replaced by stubbornness.
+
+9-12 seconds: The man stares into the girl's eyes, his voice low, "So, are you still going to
+leave?" The girl bites her lip, "Go...where else can I go?" She cruelly shakes off his hand and
+turns to run. The man reaches out to grab her but grasps only air, his hand frozen in mid-air.
+
+13-15 seconds: The camera follows the girl as she rushes out of the office. She wiped away tears in
+front of the elevator, but the tears wouldn't stop flowing. As the elevator doors slowly closed, she
+crouched down, buried her face in her arms, and sobbed. The final frame of the scene was a close-up
+of the elevator numbers dropping from 15, accompanied by a low, sorrowful piano background music.
+
+--- Version Two: School Beauty's Pursuit of Love - A Rainy Confession (Sweet and Heartbreaking
+Youth) Seedance 2.0 Prompt: A 15-second modern campus short drama, set in a rainy night classroom
+corridor, with a cool blue-toned rainy night atmosphere.
+
+0-3 seconds: Fixed shot. Heavy rain pours outside the classroom, raindrops patter against the
+windowpanes. A handsome boy in a white shirt stands in the shadows of the corridor, pacing nervously
+back and forth, clutching a pink letter. In the distance, a pretty girl with a high ponytail walks
+slowly towards them. The camera shakes slightly with each step she takes to create tension.
+
+4-8 seconds: The girl approaches the boy. He takes a few deep breaths, raises his hand as if to hand
+her the letter, then pulls it back. The girl stops in front of him, tilts her head, and smiles, "Did
+you need something?" The boy stammers, "I...I..." Before he can finish, the bell rings, startling
+them both. The corridor lights flicker. 9-12 seconds: The girl glances at the time, "Class is about
+to start, let's talk about it next time," and turns to leave. The boy musters his courage, "Wait!"
+He grabs her wrist, and they both freeze. Only the sound of rain and their breathing fills the
+corridor. The boy looks down, his cheeks flushed, "This letter." "...Here you go," the girl paused,
+looking down at the letter;
+
+13-15 seconds: the camera slowly zooms in on the girl's face, a sweet smile slowly spreading across
+her lips, starlight twinkling in her eyes. The final shot freezes on the moment she takes the
+letter—a ray of sunlight suddenly streams in through the rain-soaked window, illuminating the two of
+them, the scene ending amidst a gentle piano melody and the soft sound of rain. ---
+
+Version Three: Best Friend's Betrayal - Face-to-Face Confrontation (Satisfying Read) Seedance 2.0
+Prompt: 15-second modern short drama, upscale restaurant scene, warm gold tones contrasting with a
+cold mood.
+
+0-3 seconds: Medium shot, fixed angle. A beautiful girl is celebrating her birthday with friends,
+raising a glass and laughing joyfully. Suddenly, the restaurant door is pushed open—her most trusted
+best friend walks in arm-in-arm with her boyfriend. The laughter stops abruptly, and the girl's
+hand, holding the glass, freezes in mid-air, her smile captivated.
+
+4-8 seconds: The best friend's expression becomes awkward upon seeing the girl. She tries to pull
+her boyfriend to move to another seat, but he shakes her hand and walks straight to the girl,
+placing a gift box in front of her and saying "Happy Birthday." The best friend's face turns pale.
+The girl looks at her boyfriend, then at her best friend, finally focusing on their hands—the best
+friend is wearing the same bracelet her boyfriend said he "lost" a few days ago.
+
+9-12 seconds: The girl doesn't speak, but quietly picks up her glass and drinks it all in one gulp.
+Then she stands up and walks to her best friend. Everyone holds their breath, waiting. The girl
+smiles and slowly pours the wine onto her best friend's limited-edition bag. The best friend's eyes
+widen, as if she's about to scream. The girl holds her shoulder;
+
+13-15 seconds: The girl leans close to her best friend's ear and whispers, "Next time you're
+cheating, remember to hide what you shouldn't show first." The best friend turns pale, and the girl
+turns and leaves gracefully. The camera pulls back to show the best friend standing there stiffly,
+her boyfriend full of regret, ending with a low background music and whispers around them.
 ```
 
 ### 6.2 [Cockpit Panic Sequence](prompts/06-drama-romance/cockpit-panic-sequence.md)
@@ -531,11 +818,54 @@ https://github.com/user-attachments/assets/6994b479-6128-4bce-b66a-252003f4477c
 **Prompt:**
 
 ```text
-飘渺的黑暗奇幻女性形象，长发飘逸，头戴复杂的金属王冠，头顶尖锐如鹿角，闭着眼睛，神情宁静，苍白的皮肤柔和地发光。她的下臂和躯干变成了光滑的黑色液态金属，带有反光铬细节，黑暗中伸出锋利如爪的手指。戏剧性
-的逆光在她头部周围营造出光晕效果，冷蓝色调的雾气氛围，电影般的灯光，细节丰富、超现实且优雅，黑暗奇幻美学。
+A dark, fantastical female figure, with flowing long hair and an intricate metal crown topped with
+sharp, antler-like points, her eyes closed, her expression serene, her pale skin softly glowing. Her
+forearms and torso are transformed into smooth, black liquid metal with reflective chrome details,
+and sharp, claw-like fingers extend from the darkness. Dramatic backlighting creates a halo effect
+around her head, a cool blue-toned misty atmosphere, cinematic lighting, rich detail, surreal yet
+elegant—a dark fantasy aesthetic.
 ```
 
-### 7.2 [Colossal Baboon Assault](prompts/07-fantasy/colossal-baboon-assault.md)
+### 7.2 [Photoreal Elemental Sword Sequence (3-Shot Blueprint)](prompts/07-fantasy/photoreal-elemental-sword-sequence-3-shot-blueprint.md)
+*Elemental sword duel - 8K realism, fluid arcs, plasma lightning clash.*
+
+https://github.com/user-attachments/assets/140b9788-dfe3-4ab7-bde7-3ac494db200b
+
+**Source:** [John](https://x.com/johnAGI168) - [Post](https://x.com/johnAGI168/status/2021786934536740871) · _Created: February 12_
+
+**Prompt:**
+
+```text
+【Style】Hollywood Live-Action Blockbuster, IMAX movie quality, 8K ultra-high definition,
+photorealistic cinematography, dark fantasy, Unreal Engine 5 realistic rendering, no anime feel.
+【Duration】15 seconds 【Scene】A realistic misty forest under the moonlight, with damp soil and real
+fallen leaves on the ground.
+
+[00:00-00:05] Shot 1: Live-Action Performance - Water Breathing (Realistic Water FX). 【Close-up】An
+Asian young swordsman (the pores on the actor's face are visible), wearing a green and black
+checkered coarse cloth haori (the fabric texture is clear). Action: He holds his sword with both
+hands under the moonlight, lowering his center of gravity. Special Effects: As he breathes, instead
+of cartoonish water flow, **highly realistic, transparent, and luminous pressurized high-pressure
+water flow (Hyper-realistic Fluid Simulation)** condenses on the blade. The water, like a living
+dragon, coils around the realistic sword blade, water droplets splashing onto the lens and
+refracting moonlight.
+
+[00:05-00:10] Shot 2: Lightning Plasma. [Medium Shot/High-Speed ​​Photography] Opposite is a young
+swordsman with dyed blond hair (real hair flowing), wearing a yellow triangular-patterned fabric
+jacket. Action: He makes the starting stance for an iaido slash, the ground beneath his feet
+cracking due to the excessive force. Effects: **Real, blinding blue-white electric currents (Real
+Plasma Arcs)** erupt in the air, instead of yellow cartoon lightning. The current pierces through
+the surrounding real trees, leaving scorched marks.
+
+[00:10-00:15] Shot 3: Fated Showdown - Physics Clash. [Slow Motion/Big Explosion] The two collide at
+high speed in the center of the frame. Action: The solid water giant sword collides violently with
+the lightning blade. Effects: No comic book lines, only **real physical particle explosions**. Large
+amounts of water vapor, mud, broken tree branches, and dazzling sparks flew through the air. The
+shockwave created realistic ripples in the water beneath their feet. The scene was incredibly
+powerful and destructive.
+```
+
+### 7.3 [Colossal Baboon Assault](prompts/07-fantasy/colossal-baboon-assault.md)
 *Armored baboon rampage - village inferno, debris storm, brutal toss beats.*
 
 https://github.com/user-attachments/assets/0e7f4f56-413e-4469-8348-4e8a279e0eee
@@ -555,26 +885,7 @@ debris.
 ## 8. Horror
 Suspense-focused prompts designed to create psychological tension, eerie environments, unsettling visuals, and cinematic horror pacing.
 
-### 8.1 [Reflection Anomaly (15s Horror Template)](prompts/08-horror/reflection-anomaly-15s-horror-template.md)
-*Mirror-reflection glitch horror - fixed cam, uncanny delay, escalating dread.*
-
-https://github.com/user-attachments/assets/25f908a1-886a-4c65-a766-cc31dd47b075
-
-**Source:** [MappleShaw](https://x.com/msjiaozhu) - [Post](https://x.com/msjiaozhu/status/2021777584913363052) · _Created: February 12_
-
-**Prompt:**
-
-```text
-【风格】伪纪录片（Vlog Style），超写实主义，固定机位实拍感，自然光，带有一点点悬疑惊悚色彩。 【时长】15秒 【主角（记得传参考图）】一个性感的年轻人美女，在自家卫生间洗漱台前准备洗漱睡觉。
-[00:00-00:06] 镜头1：日常铺垫（Normalcy）。 场景：普通的卫生间大镜子前。 动作：主角正在对着镜子刷牙，满嘴泡沫。她一边刷牙一边对着镜子做各种搞怪的鬼脸（挤眉弄眼）。
-关键细节：此时镜子里的倒影完全正常，动作同步。 [00:06-00:11] 镜头2：BUG出现（The Glitch）。 动作：主角刷完牙，低头吐掉泡沫，然后转身准备离开卫生间。 高能时刻（核心爆点）
-：就在主角真身已经转身离开镜子画面范围的时候，镜子里的那个“倒影”竟然**没有动**！那个“倒影”依然保持着刷牙的姿势，甚至还坏笑着冲着镜头挑了一下眉毛，停留了整整2秒钟，才突然惊慌失措地“闪屏”追上
-本体的动作消失。 导演备注：要做出极其真实的“网络延迟”感，倒影有独立意识的感觉。 [00:11-00:15] 镜头3：惊悚回马枪（The Punchline）。
-动作：已经走到门口的主角似乎感觉到了不对劲，猛地回头看向镜子。
-结果：镜子此时已经完全恢复正常，空空荡荡，只照出对面的墙壁。主角一脸茫然且后怕，对着房间里环视了一下，露出惊悚的表情。画面在主角的懵逼脸中定格（恐怖片效果）。
-```
-
-### 8.2 [Stormborne Sea Creature Attack](prompts/08-horror/stormborne-sea-creature-attack.md)
+### 8.1 [Stormborne Sea Creature Attack](prompts/08-horror/stormborne-sea-creature-attack.md)
 *Stormy sea-monster attack - torrential rain, crashing waves, handheld chaos.*
 
 https://github.com/user-attachments/assets/afac04f5-4ddc-44c8-8657-3055418db981
@@ -588,10 +899,74 @@ https://github.com/user-attachments/assets/afac04f5-4ddc-44c8-8657-3055418db981
 bites the boat with its' teeth and drags it into the ocean"
 ```
 
+### 8.2 [Kraken Assault on a Pirate Ship](prompts/08-horror/kraken-assault-on-a-pirate-ship.md)
+*Kraken attacks pirate ship - epic scale, stormy ocean atmosphere, heroic sword strike.*
+
+https://github.com/user-attachments/assets/3083ba3c-6a94-4185-8403-5614aa5e3201
+
+**Source:** [Mark Gadala-Maria](https://x.com/markgadala) - [Post](https://x.com/markgadala/status/2021615497670737953) · _Created: February 11_
+
+**Prompt:**
+
+```text
+A massive kraken attacks a pirate ship, the captain slices it with his sword.  hyper realistic
+cinematic movie scene
+```
+
 → [View all prompts in this category](prompts/08-horror/)
 
 ## 9. Sci-Fi & Cyberpunk
 Futuristic prompts set in advanced technological worlds, neon-lit dystopias, cyberpunk cities, and high-tech cinematic universes.
+
+### 9.1 [WWII Chase Template](prompts/09-sci-fi-cyberpunk/wwii-chase-template.md)
+*WWII motorcycle escape - period detail, practical blasts, kinetic coverage.*
+
+https://github.com/user-attachments/assets/5ade4e01-a8c7-4b76-8797-ce7c4bf01cf8
+
+**Source:** [pewden AI](https://x.com/pewdenai) - [Post](https://x.com/pewdenai/status/2021648907915411795) · _Created: February 11_
+
+**Prompt:**
+
+```text
+Create a cinematic WW2 motorcycle escape sequence that makes sora and veo question their existence
+```
+
+### 9.2 [Ancient Goddess to Cyberpunk Warrior](prompts/09-sci-fi-cyberpunk/ancient-goddess-to-cyberpunk-warrior.md)
+https://github.com/user-attachments/assets/41fc62cb-96dc-4d67-9c77-b845099eb843
+
+**Source:** [John](https://x.com/johnAGI168) - [Post](https://x.com/johnAGI168/status/2021577731826213121) · _Created: February 11_
+
+**Prompt:**
+
+```text
+[Film Setting] Cinematic quality, IMAX aspect ratio, ARRI Alexa 65mm, high contrast, cyberpunk
+aesthetics, 8K resolution. [Core Concept] Time-space folding. From an ancient, pure salt lake
+goddess, she instantly awakens into a neon warrior of a futuristic city.
+
+Shot 1: Wide shot, slow push-in. The scene is extremely still. The girl, dressed in red and white
+traditional clothing and adorned with silver ornaments, stands on the mirror-like white salt lake.
+The sunlight is holy, the background is filled with snow-capped mountains, the wind blows her
+clothes, exuding divinity.
+
+Shot 2: Ultra-close-up (ECU), matching editing. The camera rapidly zooms in on the girl's eyes. Her
+pupils dilate instantly, reflecting a receding digital stream and blue data light effects.
+
+Shot 3: Jump cut, glitch art interference. The scene is instantly torn apart by intense neon light.
+The white salt lake background instantly transforms into a holographic billboard of a cyberpunk city
+flashing in the rainy night.
+
+Shot 4: Medium shot, low angle. Visual impact. She is still standing in the center of the frame, but
+her traditional robe has become a high-tech reflective functional garment. The original silver
+headdress has been replaced by metallic, shimmering headphones.
+
+Shot 5: Close-up, light and shadow shifting. Rain falls on her face, reflecting pink and purple neon
+lights. She smiles coldly at the camera, reaches up to put on her goggles, exuding an aura of
+dominance.
+
+Shot 6: Wide shot, freeze frame. She stands atop a skyscraper, overlooking the entire steel forest,
+with a giant holographic whale swimming behind her. Subtitle: "Awakening · Future". Duration: 10
+seconds | Style: Top-tier Hollywood commercial film | Visual Impact: Extremely strong
+```
 
 → [View all prompts in this category](prompts/09-sci-fi-cyberpunk/)
 
@@ -608,20 +983,62 @@ https://github.com/user-attachments/assets/ac41dc26-1fd7-4643-b01e-3f86c822ec0e
 **Prompt:**
 
 ```text
-【风格】 现代田园美学(Modern Rural Aesthetics)，电影级广告大片质感(Cinematic
-Commercial)，索尼A7S3/电影机拍摄，4K/8K超清，极致微距(Extreme Macro)，自然通透光感，治愈系ASMR，无古装剧感。 【场景】
-一个打理得井井有条的现代农家开放式厨房，背景是郁郁葱葱的菜园，阳光明媚。 【角色】 现代田园博主(Modern Creator)，黑色长发随意用一根木簪挽起，身穿深蓝色的舒适棉麻套装(Modern
-Linen Outfit)，妆容清透，眼神专注宁静。 【分镜详解】 [00:00-00:05] 镜头1：清晨采摘(The Freshness) 画面：高清特写。清晨的阳光侧逆光打在植物上。
-动作：博主的一双素手（手指修长干净）从藤蔓上摘下一个带着晶莹露水的鲜红番茄。 细节：焦点极锐，能看清番茄表面的绒毛和水珠滑落的轨迹。背景是虚化的高级绿。 [00:05-00:10]
-镜头2：极致手作(The Craft) 画面：室内灶台，充满生活气息但一尘不染。 动作：博主正在切菜，动作熟练利落（非表演性质）。
-细节：微距镜头捕捉刀刃切开食材的瞬间，汁水飞溅。接着切换到土灶膛里跳动的橙色火焰，光影温暖而真实。 [00:10-00:15] 镜头3：静谧时光(The Moment) 画面：全景/中景。
-动作：一道精致的家常菜被端上院子里的原木长桌。博主安静地坐下，轻轻整理了一下耳边的碎发，夹起一口菜。 氛围：蒸汽在逆光中缓缓升腾，画面安静得仿佛能听到风声，展现出一种现代人向往的极致松弛感。
+【Style】Modern Rural Aesthetics, Cinematic Commercial Quality, Shot with Sony A7S3/Cinema Camera,
+4K/8K Ultra HD, Extreme Macro, Natural and Transparent Lighting, Healing ASMR, No Period Drama Feel.
+【Scene】A well-maintained modern farmhouse open kitchen, with a lush vegetable garden in the
+background, bathed in bright sunlight. 【Character】Modern Creator, long black hair casually tied up
+with a wooden hairpin, wearing a comfortable dark blue linen outfit, with light makeup and focused,
+serene eyes. 【Storyboard Explanation】
+
+ [00:00-00:05] Shot 1: Morning Harvesting (The Freshness) Visuals: High-definition close-up. The
+morning sunlight shines on the plants from the side. Action: The blogger's delicate hands (long,
+clean fingers) pluck a bright red tomato glistening with dew from a vine. Detail: The focus is
+extremely sharp, clearly showing the fuzz on the tomato's surface and the trajectory of water
+droplets sliding down. The background is a blurred, sophisticated green.
+
+[00:05-00:10] Shot 2: The Craft Scene: An indoor stove, full of life yet spotless. Action: The
+blogger is chopping vegetables, the movements skillful and efficient (not a performance). Detail: A
+macro lens captures the moment the blade slices through the ingredients, juices splattering. Then
+the focus shifts to the orange flames dancing in the earthen stove, the light and shadow warm and
+realistic.
+
+[00:10-00:15] Shot 3: The Moment Scene: Wide shot/medium shot. Action: A delicate home-style dish is
+served on a long wooden table in the yard. The blogger sits down quietly, gently tidies a stray hair
+behind her ear, and picks up a bite of food. Atmosphere: Steam rises slowly in the backlight, the
+scene so quiet you can almost hear the wind, showcasing an ultimate sense of relaxation that modern
+people yearn for.
+```
+
+### 10.2 [Image reference](prompts/10-nature-documentary/image-reference.md)
+*Single-photo to cinematic video - real-image reference, strong consistency, zero-text workflow.*
+
+https://github.com/user-attachments/assets/575cb3f8-b27f-4570-8981-b3c229b6264e
+
+**Source:** [John](https://x.com/johnAGI168) - [Post](https://x.com/johnAGI168/status/2021569346716241933) · _Created: February 11_
+
+**Prompt:**
+
+```text
+Upload a photo and it automatically generates a version without any prompts!
 ```
 
 → [View all prompts in this category](prompts/10-nature-documentary/)
 
 ## 11. Epic & Large-Scale Spectacle
 Large-format prompts engineered for massive environments, sweeping camera reveals, heroic framing, and IMAX-level cinematic scale.
+
+### 11.1 [Wasteland Convoy Breakout](prompts/11-epic-spectacle/wasteland-convoy-breakout.md)
+*Mad Max-style convoy breakout - scorched desert chase, multi-shot escalation, vehicular chaos.*
+
+https://github.com/user-attachments/assets/ebff3e7f-346d-4cda-b458-314e40468488
+
+**Source:** [Dana Akerman Green](https://x.com/DanaGreenAI) - [Post](https://x.com/DanaGreenAI/status/2022060390411383290) · _Created: February 12_
+
+**Prompt:**
+
+```text
+A multi shot high action epic video about exodus story in the style of mad max
+```
 
 → [View all prompts in this category](prompts/11-epic-spectacle/)
 
@@ -638,7 +1055,7 @@ https://github.com/user-attachments/assets/cabb177b-80fc-436f-bc04-8dcf854b83e3
 **Prompt:**
 
 ```text
-#Seedance 2.0 を使ってスパイダーマンとオクトパスマンのエキサイティングな戦闘シーンを作ってください。
+Use #Seedance 2.0 to create an exciting fight scene between Spider-Man and Octopus Man.
 ```
 
 ### 12.2 [Thanos vs Spiderman Team](prompts/12-superhero-powers/thanos-vs-spiderman-team.md)
@@ -651,7 +1068,7 @@ https://github.com/user-attachments/assets/484b9798-af03-4ce9-a525-faab632365b6
 **Prompt:**
 
 ```text
-forcing Thanos to apologize before a Spider-Man-led group assault
+Forcing Thanos to apologize before a Spider-Man-led group assault
 ```
 
 → [View all prompts in this category](prompts/12-superhero-powers/)
@@ -669,8 +1086,21 @@ https://github.com/user-attachments/assets/77434f59-25a7-40cf-800b-d44138790711
 **Prompt:**
 
 ```text
-An average day for Execs at Avalabs, dealing with the community. Make sure it's really retarded and
+An average day for Execs at Avalabs, dealing with the community. Make sure it's really chaotic and
 gets 1,000 likes.
+```
+
+### 13.2 [Hashbrowns, Drama, Repeat](prompts/13-comedy-meme/hashbrowns-drama-repeat.md)
+*24/7 diner meltdown skit - nonstop tickets, deadpan staff, chaotic interruptions.*
+
+https://github.com/user-attachments/assets/4068f0f8-3302-4c2f-b5f3-4ff75c32dd2f
+
+**Source:** [Charles Curran](https://x.com/charliebcurran) - [Post](https://x.com/charliebcurran/status/2022017937192956372) · _Created: February 12_
+
+**Prompt:**
+
+```text
+An average shift at Waffle House - make sure it's chaotic and gets 50 likes.
 ```
 
 → [View all prompts in this category](prompts/13-comedy-meme/)

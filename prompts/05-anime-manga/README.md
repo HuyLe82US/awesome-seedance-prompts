@@ -10,3 +10,7 @@ Browse all prompts in this category:
   - _Live-action Saiyan brawl - fast exchanges, heavy hits, escalating energy attacks._
 - **5.3 Gadget Cat vs. Web Hero Showdown** ⭐ → [gadget-cat-vs-web-hero-showdown.md](gadget-cat-vs-web-hero-showdown.md)
   - _Gadget cat vs web hero - minimalist prompt, high-impact action, clean readability._
+- **5.4 3D Lego Assembly Time-Lapse** ⭐ → [3d-lego-assembly-time-lapse.md](3d-lego-assembly-time-lapse.md)
+  - _3D bedroom Lego timelapse - 15s storyboard, smooth camera moves, cozy light._
+- **5.5 Cozy Nighttime Pet Secret** ⭐ → [cozy-nighttime-pet-secret.md](cozy-nighttime-pet-secret.md)
+  - _Cat & dog midnight phone swap - docu-real CG, warm–cool lighting, six-shot beats._

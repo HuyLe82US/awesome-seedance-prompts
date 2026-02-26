@@ -9,20 +9,74 @@ https://github.com/user-attachments/assets/3603f5d2-900f-4e2d-afba-570851980a01
 **Prompt:**
 
 ```text
-以下是用版本一的提示词生成的。 视频生成：10秒的音乐卡点MV 10秒、音乐卡点MV、16:9或9:16。 以下是3个不同风格版本： 版本一：K-pop女团·快切卡点（高燃舞台） Seedance
-2.0 提示词 10秒K-pop女团MV卡点镜头，2.35:1宽银幕，24fps，8个快切镜头。0-1秒：低机位仰拍，舞台地面四个女团成员以三角阵型站立，灯光随节拍闪，舞台"像能听见震动"，全员同时吸
-气准备；2-3秒：主唱中心位特写，嘴角呼吸与眼 神抓镜头，轻微头发飘动，背景光从冷蓝转粉紫；4-5秒：群舞中景，动作爆发，脚步声开始进来，全员整齐划一甩发转身，动作行云流水；6-7秒：手部特写，手势带
-动衣料声和饰品轻响，戒指在灯光下闪烁；8-9秒：双人侧面，
-动作更复杂，脚步更密，镜头跟动作切，两人的手部配合精准卡点；10秒：排阵近景定格0.5秒，最后一声脚步/砸点收尾。全局：霓虹高饱和冷暖对比，浅景深突出动作，禁止文字logo水印。 ---
-版本二：古风国风·笛韵悠悠（意境卡点） Seedance 2.0 提示词 10秒国风MV卡点镜头，9:16竖屏，水墨诗画风格。0-2秒：大远景固定镜头，竹林深处一位白衣女子背对镜头抚弄古琴，烟雾缓缓从
-琴底升起，竹叶随琴音微微颤动；3-4秒：镜头以慢动作推进至女子侧脸，她睫毛轻颤，嘴角含笑 琴弦在指下震颤，背景虚化处理；5-7秒：女子抬眼望向镜头的瞬间，画面卡点切入——无数粉色花瓣从虚空中飘落，镜头
-缓缓旋转360度展示花瓣环绕的绝美画面，每片花瓣都清晰可见；8-9秒：镜头拉远重新回到大远景，女子转身
-面向镜头，衣袍随风飘动，身后竹林在夕照下泛金，她轻抚古琴琴弦定格；10秒：画面渐变为水墨晕染效果，最后收束在古琴余韵与竹叶沙沙声中。 --- 版本三：电音Future Bass·霓虹雨夜（赛博卡点）
-Seedance 2.0 提示词 10秒电音Future Bass
-MV卡点镜头，超宽银幕，霓虹都市夜景。0-1秒：固定镜头，雨夜都市街道霓虹灯光在地面反射，积水坑中倒映着赛博朋克建筑，画面节奏与低频Bass同步轻微抖动；2-4秒：镜头沿街道快速前推，穿过雨帘 每一滴
-雨水都在Bass重拍时溅起水花，镜头速度随音乐节奏忽快忽慢；5-7秒：切入人物视角，一个戴耳机女生在雨中起舞，她的动作与Bass完美卡点——每次重拍身体都定格一帧形成顿挫感，霓虹灯光在她身上形成光轨拖
-尾，雨滴 在空中被音乐震得碎裂；8-9秒：镜头急速拉远上摇，俯瞰整条霓虹街道，雨中的Bass可视化波纹从街道中心一圈圈扩散，每个波纹都精准对应一次重拍；10秒：画面定格在俯瞰视角，街景在最后一拍时瞬间
-黑白反转然后渐黑，收 束在Bass余震与雨声渐弱中。
+The following was generated using the prompts from version 1. Video generation: 10-second music
+video with beat syncing. 10 seconds, music video with beat syncing, 16:9 or 9:16. Here are 3
+different style versions:
+
+Version 1: K-pop girl group - fast cut beat syncing (high-energy stage) Seedance 2.0 Prompts:
+10-second K-pop girl group MV beat syncing footage, 2.35:1 widescreen, 24fps, 8 fast cut shots.
+
+0-1 second: Low-angle shot, four girl group members standing in a triangular formation on the stage
+floor, lights flashing with the beat, the stage "seems to vibrate," all members simultaneously
+inhale in preparation;
+
+2-3 seconds: Close-up of the lead vocalist in the center, breath and eyes gripping the camera, hair
+slightly swaying, background light shifting from cool blue to pinkish-purple;
+
+4-5 seconds: Medium shot of group dance, movements exploding, footsteps starting to enter, all
+members simultaneously tossing their hair and turning, movements fluid and graceful;
+
+6-7 seconds: Close-up of hands, gestures causing the fabric to rustle and accessories to jingle,
+rings flashing under the lights;
+
+8-9 seconds: Side view of two members, movements more complex, footsteps more frequent, the camera
+cuts to the movements, the two members' hands precisely coordinated;
+
+10 seconds: Close-up of the formation, frozen for 0.5 seconds, ending with a final footstep/beat.
+Overall: High-saturation neon lights with contrasting warm and cool tones, shallow depth of field
+highlighting the movements, no text, logos, or watermarks. ---
+
+Version 2: Ancient Chinese Style - Melodious Flute (Memories and Beats) Seedance 2.0 Prompt:
+10-second Chinese style MV beat-matching shot, 9:16 vertical screen, ink painting style.
+
+0-2 seconds: A wide, fixed shot shows a woman in white playing a guqin (a seven-stringed zither)
+deep in a bamboo forest, her back to the camera. Smoke rises slowly from the bottom of the
+instrument, and the bamboo leaves tremble slightly with the music.
+
+3-4 seconds: The camera zooms in on the woman's profile in slow motion. Her eyelashes flutter, and
+she smiles as the strings vibrate under her fingers. The background is blurred.
+
+5-7 seconds: The moment the woman looks up at the camera, the scene cuts in—countless pink petals
+fall from the sky. The camera slowly rotates 360 degrees to show the stunning scene of the petals
+surrounding her, each petal clearly visible.
+
+8-9 seconds: The camera pulls back to a wide shot. The woman turns to face the camera, her robes
+fluttering in the wind. The bamboo forest behind her glows golden in the sunset. She gently touches
+the strings of the guqin, and the scene freezes.
+
+10 seconds: The scene gradually transitions to an ink wash effect, finally ending with the lingering
+sound of the guqin and the rustling of the bamboo leaves.
+
+--- Version 3: Electronic Music Future Bass·Neon Rainy Night (Cyber ​​Beat) Seedance 2.0 Cue words:
+10-second electronic music Future Bass MV beat-matching shot, ultra-wide screen, neon city night
+scene.
+
+0-1 second: Fixed shot, neon lights of a rainy city street reflect on the ground, cyberpunk
+architecture is reflected in puddles, the rhythm of the scene is slightly jittery in sync with the
+low-frequency bass;
+
+2-4 seconds: The camera quickly pushes forward along the street, through the rain curtain, each
+raindrop splashing with each bass beat, the camera speed fluctuating with the music rhythm;
+
+5-7 seconds: Cut to the character's perspective, a girl wearing headphones dances in the rain, her
+movements perfectly synchronized with the bass—each beat freezes her body for a sense of abruptness,
+neon lights create light trails on her body, raindrops shatter in the air from the music;
+
+8-9 seconds: The camera rapidly pulls back and pans upwards, overlooking the entire neon street,
+visual ripples of the bass in the rain radiate from the center of the street, each ripple precisely
+corresponding to a beat; 10 seconds: The scene freezes at the overhead view, the street scene
+instantly reverses to black and white on the last beat and then fades to black, ending with the
+aftershocks of the bass and the fading sound of the rain.
 ```
 
 ← [Back to category index](README.md)

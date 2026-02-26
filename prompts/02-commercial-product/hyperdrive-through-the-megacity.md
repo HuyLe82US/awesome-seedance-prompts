@@ -9,7 +9,7 @@ https://github.com/user-attachments/assets/fd5fe747-7dc2-4609-8a67-4fb638f3f8e8
 **Prompt:**
 
 ```text
-a Creature is driving extremely fast through the futuristic city, 4 scene cut changes from dramatic
+A creature is driving extremely fast through the futuristic city, 4 scene cut changes from dramatic
 angles
 ```
 

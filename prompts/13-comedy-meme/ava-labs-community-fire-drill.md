@@ -9,7 +9,7 @@ https://github.com/user-attachments/assets/77434f59-25a7-40cf-800b-d44138790711
 **Prompt:**
 
 ```text
-An average day for Execs at Avalabs, dealing with the community. Make sure it's really retarded and
+An average day for Execs at Avalabs, dealing with the community. Make sure it's really chaotic and
 gets 1,000 likes.
 ```
 

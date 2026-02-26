@@ -18,3 +18,9 @@ Browse all prompts in this category:
   - _Titan city chase - painterly lighting, massive scale gap, destruction pursuit._
 - **1.7 A charismatic 80s action star vs. Noodle Monster** ⭐ → [charismatic-vs-noodle-monster.md](charismatic-vs-noodle-monster.md)
   - _80s factory monster brawl - film grain, spotlight contrast, big choreography._
+- **1.8 Tokyo Race Scene** ⭐ → [tokyo-race-scene.md](tokyo-race-scene.md)
+  - _Neon Tokyo street race - multi-scene pacing, dynamic lighting, fast transitions._
+- **1.9 Magical Transformation** ⭐ → [magical-transformation.md](magical-transformation.md)
+  - _Mystic eye awakening on bridge - close-up tension, rapid zoom-out, sky-launch surge._
+- **1.10 Explosion and Physics Scene** ⭐ → [explosion-and-physic-scene.md](explosion-and-physic-scene.md)
+  - _Realistic explosion test - shockwave physics, debris motion, natural light response._

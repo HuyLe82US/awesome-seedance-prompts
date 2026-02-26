@@ -9,14 +9,30 @@ https://github.com/user-attachments/assets/ac41dc26-1fd7-4643-b01e-3f86c822ec0e
 **Prompt:**
 
 ```text
-【风格】 现代田园美学(Modern Rural Aesthetics)，电影级广告大片质感(Cinematic
-Commercial)，索尼A7S3/电影机拍摄，4K/8K超清，极致微距(Extreme Macro)，自然通透光感，治愈系ASMR，无古装剧感。 【场景】
-一个打理得井井有条的现代农家开放式厨房，背景是郁郁葱葱的菜园，阳光明媚。 【角色】 现代田园博主(Modern Creator)，黑色长发随意用一根木簪挽起，身穿深蓝色的舒适棉麻套装(Modern
-Linen Outfit)，妆容清透，眼神专注宁静。 【分镜详解】 [00:00-00:05] 镜头1：清晨采摘(The Freshness) 画面：高清特写。清晨的阳光侧逆光打在植物上。
-动作：博主的一双素手（手指修长干净）从藤蔓上摘下一个带着晶莹露水的鲜红番茄。 细节：焦点极锐，能看清番茄表面的绒毛和水珠滑落的轨迹。背景是虚化的高级绿。 [00:05-00:10]
-镜头2：极致手作(The Craft) 画面：室内灶台，充满生活气息但一尘不染。 动作：博主正在切菜，动作熟练利落（非表演性质）。
-细节：微距镜头捕捉刀刃切开食材的瞬间，汁水飞溅。接着切换到土灶膛里跳动的橙色火焰，光影温暖而真实。 [00:10-00:15] 镜头3：静谧时光(The Moment) 画面：全景/中景。
-动作：一道精致的家常菜被端上院子里的原木长桌。博主安静地坐下，轻轻整理了一下耳边的碎发，夹起一口菜。 氛围：蒸汽在逆光中缓缓升腾，画面安静得仿佛能听到风声，展现出一种现代人向往的极致松弛感。
+【Style】Modern Rural Aesthetics, Cinematic Commercial Quality, Shot with Sony A7S3/Cinema Camera,
+4K/8K Ultra HD, Extreme Macro, Natural and Transparent Lighting, Healing ASMR, No Period Drama Feel.
+【Scene】A well-maintained modern farmhouse open kitchen, with a lush vegetable garden in the
+background, bathed in bright sunlight. 【Character】Modern Creator, long black hair casually tied up
+with a wooden hairpin, wearing a comfortable dark blue linen outfit, with light makeup and focused,
+serene eyes. 【Storyboard Explanation】
+
+ [00:00-00:05] Shot 1: Morning Harvesting (The Freshness) Visuals: High-definition close-up. The
+morning sunlight shines on the plants from the side. Action: The blogger's delicate hands (long,
+clean fingers) pluck a bright red tomato glistening with dew from a vine. Detail: The focus is
+extremely sharp, clearly showing the fuzz on the tomato's surface and the trajectory of water
+droplets sliding down. The background is a blurred, sophisticated green.
+
+[00:05-00:10] Shot 2: The Craft Scene: An indoor stove, full of life yet spotless. Action: The
+blogger is chopping vegetables, the movements skillful and efficient (not a performance). Detail: A
+macro lens captures the moment the blade slices through the ingredients, juices splattering. Then
+the focus shifts to the orange flames dancing in the earthen stove, the light and shadow warm and
+realistic.
+
+[00:10-00:15] Shot 3: The Moment Scene: Wide shot/medium shot. Action: A delicate home-style dish is
+served on a long wooden table in the yard. The blogger sits down quietly, gently tidies a stray hair
+behind her ear, and picks up a bite of food. Atmosphere: Steam rises slowly in the backlight, the
+scene so quiet you can almost hear the wind, showcasing an ultimate sense of relaxation that modern
+people yearn for.
 ```
 
 ← [Back to category index](README.md)

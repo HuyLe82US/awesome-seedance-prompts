@@ -9,21 +9,77 @@ https://github.com/user-attachments/assets/e03255e3-f7db-403e-af24-188c1351a9d8
 **Prompt:**
 
 ```text
-视频提示词 主题：年轻漂亮男女经典对打·现代短剧 时长：15秒 比例：16:9 --- 版本一：霸总虐恋·误会分手（狗血拉扯） Seedance 2.0 提示词 15秒现代短剧，豪华总裁办公室场景，冷
-色调高级感。0-3秒：中景镜头，一名身着高定西装的年轻男子坐在真皮老板椅上，面容冷峻眼神淡漠，他面前站着一身白裙的漂亮女孩，女孩眼眶通红泪水在眼里打转，男子开口"我给过 机会"，声音低沉冷漠；4-8秒
-：女孩声音颤抖"你给过我什么机会？是你从一开始就没信任过我！"她转身就要走，男子猛然起身一把拽住她手腕，镜头跟拍两人拉扯，女孩被迫回头，两人距离极近呼吸可闻，女孩眼中闪过一丝留 但很快被倔强取代；9-
-12秒：男子盯着女孩的眼睛声音低沉"那你现在还要走吗"，女孩咬唇"走...我还能走哪"，她狠心甩开他的手转身就跑，男子伸手想抓但只抓到空气，手僵在半空；13-15秒：镜头跟拍女孩冲出办公室，她在
-梯前擦泪但眼泪止不住地流，电梯门缓缓关闭的瞬间她蹲下埋进手臂哭出声，画面最后定格在电梯数字从15往下跳动的特写，伴随钢琴低沉悲伤BGM。 --- 版本二：校花追爱·雨中告白（青春甜虐）
-Seedance 2.0 提示词 15秒现代校园短剧，雨夜教室走廊场景，冷蓝色调雨夜氛围。0-3秒：固定镜头，教室外大雨倾盆，窗户玻璃被雨点打得啪啪作响，一名穿着白衬衫的清秀男生站在走廊阴影里，手中握
-着一封粉色信件紧张地来回踱步，远处一个扎 高马尾的漂亮女生缓缓走来，女生每走一步镜头都轻微晃动营造紧张感；4-8秒：女生走近男生，男生深呼吸几度抬手想递信又缩回，女生停在男生面前歪头笑"你找我有事吗"
-，男生慌乱"我...我..."话没说完上课铃突然响起，两 人都吓一跳，走廊灯光闪了闪；9-12秒：女生看一眼时间"快上课了，下次再说吧"转身就要走，男生鼓起勇气"等等！"，他一把拉住女生手腕，两人同时
-僵住，走廊里只剩下雨声和两人呼吸声，男生低头不看女生脸颊通红"这封信. ..给你"，女生愣住低头看着那封信；13-15秒：镜头缓慢推进至女生脸部特写，她嘴角慢慢扬起甜蜜笑容，眼中有星光闪烁，画面最后定
-格在她接过信的瞬间——雨窗外突然透进一缕阳光照在两人身上，收束在温柔钢琴旋律与雨声 弱中。 --- 版本三：闺蜜背叛·当面对质（爽文打脸） Seedance 2.0 提示词 15秒现代短剧，高级餐厅场
-景，暖金色调对比冷清情绪。0-3秒：中景固定镜头，漂亮女生正举着酒杯和朋友们庆祝生日，笑声欢愉，餐厅门突然被推开——一个她最信任的闺蜜挽着她男友的手走进来，全场笑声戛然而止，女生举着 酒杯的手僵在半空
-，笑容凝固；4-8秒：闺蜜看到女生后表情一瞬不自然，拉着男友想换个位置，男友却甩开她的手径直走向女生，把礼物盒放在她面前"生日快乐"，闺蜜脸色变得难看，女生看看男友又看看闺蜜，最后目光落在两 人手上—
-—闺蜜手腕上戴着男友前几天说"丢了的"同款手链；9-12秒：女生没说话只是静静拿起酒杯一饮而尽，然后站起身走到闺蜜面前，所有人屏息等待，女生微笑着把那瓶酒缓缓倒在闺蜜那个限量版包包上，闺蜜瞪大眼想尖叫
-被女生按住肩膀；13-15秒：女生凑近闺蜜耳边轻声"下次偷人的时候记得先把不该露的东西藏好"，闺蜜脸色煞白，女生转身潇洒离开，镜头拉远展示闺蜜站在原地浑身僵硬、男友追悔莫及，收束在低沉BGM与周围窃窃
-私语声中。
+Video prompts Theme: Classic fight between young and beautiful men and women - modern short drama
+Length: 15 seconds Aspect ratio: 16:9 ---
+
+Version 1: CEO's sadistic love - misunderstanding and breakup (melodramatic) Seedance 2.0 Prompts
+15-second modern short drama, luxurious CEO office scene, cool color tone and high-end feel.
+
+0-3 seconds: Medium shot. A young man in a bespoke suit sits in a leather executive chair, his face
+cold and his eyes indifferent. A beautiful girl in a white dress stands before him, her eyes red and
+brimming with tears. The man speaks, "I gave you a chance," his voice low and cold.
+
+4-8 seconds: The girl's voice trembles, "What chance did you give me? You never trusted me from the
+beginning!" She turns to leave, but the man suddenly stands up and grabs her wrist. The camera
+follows their struggle, forcing the girl to turn back. They are extremely close, their breaths
+mingling. A flicker of hesitation flashes in the girl's eyes, quickly replaced by stubbornness.
+
+9-12 seconds: The man stares into the girl's eyes, his voice low, "So, are you still going to
+leave?" The girl bites her lip, "Go...where else can I go?" She cruelly shakes off his hand and
+turns to run. The man reaches out to grab her but grasps only air, his hand frozen in mid-air.
+
+13-15 seconds: The camera follows the girl as she rushes out of the office. She wiped away tears in
+front of the elevator, but the tears wouldn't stop flowing. As the elevator doors slowly closed, she
+crouched down, buried her face in her arms, and sobbed. The final frame of the scene was a close-up
+of the elevator numbers dropping from 15, accompanied by a low, sorrowful piano background music.
+
+--- Version Two: School Beauty's Pursuit of Love - A Rainy Confession (Sweet and Heartbreaking
+Youth) Seedance 2.0 Prompt: A 15-second modern campus short drama, set in a rainy night classroom
+corridor, with a cool blue-toned rainy night atmosphere.
+
+0-3 seconds: Fixed shot. Heavy rain pours outside the classroom, raindrops patter against the
+windowpanes. A handsome boy in a white shirt stands in the shadows of the corridor, pacing nervously
+back and forth, clutching a pink letter. In the distance, a pretty girl with a high ponytail walks
+slowly towards them. The camera shakes slightly with each step she takes to create tension.
+
+4-8 seconds: The girl approaches the boy. He takes a few deep breaths, raises his hand as if to hand
+her the letter, then pulls it back. The girl stops in front of him, tilts her head, and smiles, "Did
+you need something?" The boy stammers, "I...I..." Before he can finish, the bell rings, startling
+them both. The corridor lights flicker. 9-12 seconds: The girl glances at the time, "Class is about
+to start, let's talk about it next time," and turns to leave. The boy musters his courage, "Wait!"
+He grabs her wrist, and they both freeze. Only the sound of rain and their breathing fills the
+corridor. The boy looks down, his cheeks flushed, "This letter." "...Here you go," the girl paused,
+looking down at the letter;
+
+13-15 seconds: the camera slowly zooms in on the girl's face, a sweet smile slowly spreading across
+her lips, starlight twinkling in her eyes. The final shot freezes on the moment she takes the
+letter—a ray of sunlight suddenly streams in through the rain-soaked window, illuminating the two of
+them, the scene ending amidst a gentle piano melody and the soft sound of rain. ---
+
+Version Three: Best Friend's Betrayal - Face-to-Face Confrontation (Satisfying Read) Seedance 2.0
+Prompt: 15-second modern short drama, upscale restaurant scene, warm gold tones contrasting with a
+cold mood.
+
+0-3 seconds: Medium shot, fixed angle. A beautiful girl is celebrating her birthday with friends,
+raising a glass and laughing joyfully. Suddenly, the restaurant door is pushed open—her most trusted
+best friend walks in arm-in-arm with her boyfriend. The laughter stops abruptly, and the girl's
+hand, holding the glass, freezes in mid-air, her smile captivated.
+
+4-8 seconds: The best friend's expression becomes awkward upon seeing the girl. She tries to pull
+her boyfriend to move to another seat, but he shakes her hand and walks straight to the girl,
+placing a gift box in front of her and saying "Happy Birthday." The best friend's face turns pale.
+The girl looks at her boyfriend, then at her best friend, finally focusing on their hands—the best
+friend is wearing the same bracelet her boyfriend said he "lost" a few days ago.
+
+9-12 seconds: The girl doesn't speak, but quietly picks up her glass and drinks it all in one gulp.
+Then she stands up and walks to her best friend. Everyone holds their breath, waiting. The girl
+smiles and slowly pours the wine onto her best friend's limited-edition bag. The best friend's eyes
+widen, as if she's about to scream. The girl holds her shoulder;
+
+13-15 seconds: The girl leans close to her best friend's ear and whispers, "Next time you're
+cheating, remember to hide what you shouldn't show first." The best friend turns pale, and the girl
+turns and leaves gracefully. The camera pulls back to show the best friend standing there stiffly,
+her boyfriend full of regret, ending with a low background music and whispers around them.
 ```
 
 ← [Back to category index](README.md)

@@ -9,7 +9,7 @@ https://github.com/user-attachments/assets/5ade4e01-a8c7-4b76-8797-ce7c4bf01cf8
 **Prompt:**
 
 ```text
-create a cinematic WW2 motorcycle escape sequence that makes sora and veo question their existence
+Create a cinematic WW2 motorcycle escape sequence that makes sora and veo question their existence
 ```
 
 ← [Back to category index](README.md)

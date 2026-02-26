@@ -9,8 +9,10 @@ https://github.com/user-attachments/assets/2eb3f848-0854-4870-bc2a-cfb53088c503
 **Prompt:**
 
 ```text
-{这是一段街头场景吴宇森式枪斗打戏的画面，请基于场景图片3，生成一段流畅的白色西服男子"图片1"的真实效果下和花衬衫男子"图片2真实效果"下在狭隘空间里的枪战画面，需要运用到分镜和不同视角切换，让整个
-画面更有节奏感和电影感。 }
+This is a street scene depicting a John Woo-style gunfight. Based on scene image 3, please generate
+a smooth gunfight scene in a confined space, using realistic effects of the man in the white suit
+(image 1) and the man in the floral shirt (image 2). This should utilize shot splits and different
+perspectives to create a more rhythmic and cinematic feel.
 ```
 
 ← [Back to category index](README.md)
