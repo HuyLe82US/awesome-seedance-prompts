@@ -1108,6 +1108,7 @@ An average shift at Waffle House - make sure it's chaotic and gets 50 likes.
 ## 14. Resources
 
 ### Official access & product hubs
+- [Seedance 2.0 AI Video](https://seedance2aivideo.app/) - Free international web interface for Seedance 2.0 — text-to-video, image-to-video, lip-sync, and multi-shot storytelling. Start with 30 free credits, no API key needed.
 - [Seedance 2.0 (ByteDance SEED)](https://seed.bytedance.com/en/seedance2_0) - Official overview of Seedance 2.0 capabilities, modalities, and positioning.
 - [即梦AI (Jimeng) - Creator Portal](https://jimeng.jianying.com/) - Web entry point for AI image/video creation in the Jianying ecosystem (prompt-to-video, community inspiration, and creation tools).
 - [小云雀AI (Xiaoyunque)](https://xyq.jianying.com/) - Jianying’s “content creation agent” style workflow for generating short-form videos and images from simple instructions.
