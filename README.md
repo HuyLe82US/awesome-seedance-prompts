@@ -1116,6 +1116,7 @@ An average shift at Waffle House - make sure it's chaotic and gets 50 likes.
 ### Learning & workflow guides
 - [Seedance 2.0 How to Use Guide](https://xyq.jianying.com/) - Quick onboarding and hands-on exploration through the creator portal.
 - [Seedance API Documentation](https://www.jianying.com/) - Starting point for understanding ecosystem integration and product docs at the official site.
+- [AI video prompt examples](https://imgmov.com/blog/2026-07-08-ai-video-prompts) - Written examples combining subject motion, camera direction and lighting.
 
 ### Utilities (X/Twitter media)
 - [publer.com](https://publer.com/) - X/Twitter video downloader (useful for collecting reference clips for prompt breakdowns).
