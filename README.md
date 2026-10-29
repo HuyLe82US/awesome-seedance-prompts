@@ -1114,6 +1114,7 @@ An average shift at Waffle House - make sure it's chaotic and gets 50 likes.
 - [ByteDance Jianying / CapCut (剪映) Official Site](https://www.jianying.com/) - Official home for Jianying/CapCut products, accounts, and platform entry points.
 
 ### Learning & workflow guides
+- [Ideoy](https://ideoy.ai) - Remake this week's viral meme videos from one selfie (AI image-to-video, 9:16, freemium).
 - [Seedance 2.0 How to Use Guide](https://xyq.jianying.com/) - Quick onboarding and hands-on exploration through the creator portal.
 - [Seedance API Documentation](https://www.jianying.com/) - Starting point for understanding ecosystem integration and product docs at the official site.
 
